@@ -7,7 +7,7 @@ I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pa
 
 ### Scientific Vision
 
-_keywords_ : Mechanics of Soft polymer networks, mechanical characterization, micro-mechanical modeling
+_keywords_ : mechanics of soft polymer networks, experimental characterization, micro-mechanical modeling, multi-scale approach.
 
 ### Education & Academic achievements
 
@@ -31,6 +31,10 @@ Research in materials science with both experimental and modeling work in the fi
 Collaborations on applied research projects with the aeronautical industry (Safran group, TechSpace Aero, Sonaca), as well as fundamental research with other international groups (KULeuven, Trinity College, IMDEA, Imperial College), were pursued in parallel.
 **Dissertation**: "Mechanical Characterization and Physics-Based Modeling of a Highly-Crosslinked Epoxy Resin", _supervised by_ Pr. Thomas Pardoen \& Pr. Christian Bailly.
 
+### Publications
+
+
+### Teaching and supervision
 
 ### Awards & Fellowships
 - Qualification Maître de Conférences - aptitude certification to be an engineering professor in France (2018-2022)
@@ -42,4 +46,5 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 - FRIA Doctoral Research Fellowship, provided by the Belgian National Fund for Scientific Research (FNRS) (2011-2012)
 - Best Master Thesis Presentation prize}{organized by AILouvain - Ecole Polytechnique de Louvain - UCLouvain (2011)
 - AGC Scholarship, organized by Ecole Polytechnique de Louvain - UCLouvain (2010)
+
 
