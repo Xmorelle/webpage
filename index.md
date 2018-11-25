@@ -11,9 +11,9 @@ During the thesis, I have worked in the field of polymer mechanics and more espe
 
 ### Education & Academic achievements
 
+![Image](/pictures/ESPCI-logo.png)
 ```
 # 2017 - now : ESPCI | PSL, Paris, FRANCE 
-![Image](/pictures/ESPCI-logo.png)
 
 Fundamental research using mechano-chemistry as a tool to study the mechanics and fracture of soft polymer networks, going from adhesives to hydrogels and elastomers. A focus is set on the understanding of the fatigue behavior and the toughening mechanisms occuring in multiple network hydrogels and elastomers through optical analysis of fluorescent molecular markers.
 
