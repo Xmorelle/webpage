@@ -77,7 +77,7 @@ _to be completed..._
 - FNRS Doctoral Research Fellowship, provided by the Belgian National Fund for Scientific Research (FNRS) (2012-2015)
 - Best Presentation at the 10th Annual SAMPE Benelux student meeting (2012)
 - FRIA Doctoral Research Fellowship, provided by the Belgian National Fund for Scientific Research (FNRS) (2011-2012)
-- Best Master Thesis Presentation prize}{organized by AILouvain - Ecole Polytechnique de Louvain - UCLouvain (2011)
+- Best Master Thesis Presentation prize, organized by AILouvain - Ecole Polytechnique de Louvain - UCLouvain (2011)
 - AGC Scholarship, organized by Ecole Polytechnique de Louvain - UCLouvain (2010)
 
 
