@@ -9,7 +9,21 @@ During the thesis, I have worked in the field of polymer mechanics and more espe
 
 ### Scientific Vision
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education & Academic achievements
+
+```
+2017 - now : ESPCI | PSL, Paris, FRANCE
+
+```
+```
+2015 - 2017 : John Paulson's School of Engineering and Applied Science | Harvard, Cambridge - MA, USA
+
+```
+```
+2011 - 2015 : IMAP, iMMC | UCLouvain, Louvain-la-Neuve, BELGIUM
+
+```
+### Awards & Fellowships
 
 ```markdown
 Syntax highlighted code block
@@ -31,10 +45,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xmorelle/webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
