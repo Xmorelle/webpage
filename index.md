@@ -37,23 +37,23 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 
 ### Publications
 
-13.
+13. R. Bai, J. Wang, **X. P. Morelle**, Z. Suo, "Flaw-insensitive hydrogels under static and cyclic loads", _submitted to Advanced Materials_, **2019**.
 
-12.
+12. J. Chevalier, **X. P. Morelle**, P. P. Camanho, F. Lani, T. Pardoen, "On a unique fracture mechanism for highly cross-linked epoxy resins", _Journal of Mechanics and Physics of Solids_, vol 122, **2019**, pp.502-519. [https://doi.org/10.1016/j.jmps.2018.09.028](https://doi.org/10.1016/j.jmps.2018.09.028)
 
-11.
+11. J. Chevalier*, L. Brassart, F. Lani, C. Bailly, T. Pardoen, **X. P. Morelle **, "Unveilling the nanoscale heterogeneity controlled deformation of thermosets", _Journal of the Mechanics and Physics of Solids_, vol 121, **2018**, pp. 432-446. [https://doi.org/10.1016/j.jmps.2018.08.014](https://doi.org/10.1016/j.jmps.2018.08.014)
 
-10.
+10. **X. P. Morelle**, W. R. Illeperuma, K. Tian, R. Bai, Z. Suo, J. J. Vlassak, "Highly stretchable and tough hydrogels below water freezing temperatures", _Advanced Materials_, vol 30, **2018**, 1801541. [https://doi.org/10.1002/adma.201801541](https://doi.org/10.1002/adma.201801541)
 
-9.
+9. P. Rothemund, **X. P. Morelle**, K. Jia, G. M. Whitesides, Z. Suo, "A transparent membrane for active noise cancelation", _Advanced Functional Materials_, vol 28, **2018**, 1800653. [https://doi.org/10.1002/adfm.201800653](https://doi.org/10.1002/adfm.201800653)
 
-8.
+8. E. Zhang, R. Bai, **X. P. Morelle**, Z. Suo, "Fatigue fracture of nearly elastic hydrogels", _Soft Matter_, vol 14, **2018**, pp. 3563-3571. [https://doi.org/10.1039/C8SL00460A](https://doi.org/10.1039/C8SL00460A)
 
-7.
+7. R. Bai, J. Yang, **X. P. Morelle**, C. Yang, Z. Suo, "Fatigue fracture of tough hydrogels", _ACS Macro Letters_, vol 7, **2018**, pp. 312-317. [https://doi.org/10.1021/acsmacrolett.8b00045](https://doi.org/10.1021/acsmacrolett.8b00045)
 
-6.
+6. **X. P. Morelle**, R. Bai, Z. Suo, "Localized deformation in Plastic Liquids on Elastomers", _Journal of Applied Mechanics_, vol. 84 : issue 10, **2017**, pp. 101002 [https://doi.org/10.1115/1.4037410](https://doi.org/10.1115/1.4037410)
 
-5.
+5. R. Bai, Q. Yang, J. Tang, **X. P. Morelle**, J. Vlassak, Z. Suo, "Fatigue fracture of tough hydrogels", _Extreme Mechanics Letters_, vol 15, **2017**, pp. 91-96. [https://doi.org/10.1016/j.eml.2017.07.002](https://doi.org/10.1016/j.eml.2017.07.002)
 
 4. **X. P. Morelle**, J. Chevalier, C. Bailly, T. Pardoen, F. Lani, "Mechanical characterization and modeling of the deformation and failure of the highly crosslinked RTM6 epoxy resin", _Mechanics of Time-Dependent Materials_, vol. 21 : issue 3, **2017**, pp. 419-454. [https://doi.org/10.1007/s11043-016-9336-6](https://doi.org/10.1007/s11043-016-9336-6)
 
