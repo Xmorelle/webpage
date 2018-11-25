@@ -9,6 +9,8 @@ I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pa
 
 _keywords_ : mechanics of soft polymer networks, experimental characterization, micro-mechanical modeling, multi-scale approach.
 
+* * *
+
 ### Education & Academic achievements
 
 ![ESPCI](/pictures/ESPCI-logo.png){:width="400px"}
@@ -31,10 +33,41 @@ Research in materials science with both experimental and modeling work in the fi
 Collaborations on applied research projects with the aeronautical industry (Safran group, TechSpace Aero, Sonaca), as well as fundamental research with other international groups (KULeuven, Trinity College, IMDEA, Imperial College), were pursued in parallel.
 **Dissertation**: "Mechanical Characterization and Physics-Based Modeling of a Highly-Crosslinked Epoxy Resin", _supervised by_ Pr. Thomas Pardoen \& Pr. Christian Bailly.
 
+* * *
+
 ### Publications
+
+13.
+
+12.
+
+11.
+
+10.
+
+9.
+
+8.
+
+7.
+
+6.
+
+5.
+
+4.
+
+3.
+
+2.
+
+1. A. Bahrami, **X. P. Morelle**, b, L. D. Hông Minh, T. Pardoen, C. Bailly, B. Nysten, "Curing dependent spatial heterogeneity of mechanical response in epoxy resins revealed by atomic force microscopy", _Polymer_, vol. 68, **2015**, pp. 1-10. [https://doi.org/10.1016/j.polymer.2015.04.084.](https://doi.org/10.1016/j.polymer.2015.04.084.)
 
 
 ### Teaching and supervision
+_to be completed..._
+
+* * *
 
 ### Awards & Fellowships
 - Qualification Maître de Conférences - aptitude certification to be an engineering professor in France (2018-2022)
