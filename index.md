@@ -55,9 +55,9 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 
 5.
 
-4.
+4. **X. P. Morelle**, J. Chevalier, C. Bailly, T. Pardoen, F. Lani, "Mechanical characterization and modeling of the deformation and failure of the highly crosslinked RTM6 epoxy resin", _Mechanics of Time-Dependent Materials_, vol. 21 : issue 3, **2017**, pp. 419-454. [https://doi.org/10.1007/s11043-016-9336-6](https://doi.org/10.1007/s11043-016-9336-6)
 
-3.
+3. J. Chevalier, **X. P. Morelle**, C. Bailly, P.P. Camanho, T. Pardoen, F. Lani, "Micro-mechanics based pressure dependent failure model for highly cross-linked epoxy resin", _Engineering Fracture Mechanics_, vol. 158, **2016**, pp.192-216. [https://doi.org/1016/j.engfracmech.201602.039](https://doi.org/1016/j.engfracmech.201602.039)
 
 2. V.-D. Nguyen, F. Lani, T. Pardoen, **X. P. Morelle**, L. Noels, "A large strain hyperelastic viscoelastic-viscoplastic-damage constitutive model based on a multi-mechanism non-local damage continuum for amorphous glassy polymers", _International Journal of Solids and Structures_, vol. 96, **2016**, pp. 192-216. [https://doi.org/10.1016/j.ijsolstr.2016.06.008](https://doi.org/10.1016/j.ijsolstr.2016.06.008)
 
