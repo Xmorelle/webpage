@@ -11,20 +11,20 @@ keywords : Mechanics of Soft polymer networks, mechanical characterization, micr
 
 ### Education & Academic achievements
 
-![ESPCI](/pictures/ESPCI-logo.png){:width="200px"}
+![ESPCI](/pictures/ESPCI-logo.png){:width="400px"}
 ```
 # 2017 - now : ESPCI | PSL, Paris, FRANCE 
 ```
 Fundamental research using mechano-chemistry as a tool to study the mechanics and fracture of soft polymer networks, going from adhesives to hydrogels and elastomers. A focus is set on the understanding of the fatigue behavior and the toughening mechanisms occuring in multiple network hydrogels and elastomers through optical analysis of fluorescent molecular markers.
 
 
-![Harvard](/pictures/Harvard_logo.png)
+![Harvard](/pictures/Harvard_logo.png){:width="400px"}
 ```
 # 2015 - 2017 : School of Engineering and Applied Science | Harvard, Cambridge - MA, USA
 ```
 Research in the field of soft active materials in the group of Pr. Zhigang Suo. My research involved the preparation of tough hydrogels, their specific mechanical and fracture characterization under a large variety of testing conditions (from sub-zero temperatures to fatigue loading), as well as the development of new engineering devices making use of their multifunctional properties.
 
-![UCLouvain](/pictures/UCLouvain_Logo.jpg)
+![UCLouvain](/pictures/UCLouvain_Logo.jpg){:width="400px"}
 ```
 # 2011 - 2015 : IMAP, iMMC | UCLouvain, Louvain-la-Neuve, BELGIUM
 ```
