@@ -1,10 +1,13 @@
-## Xavier Morelle
+## Research Homepage
 
-You can use the [editor on GitHub](https://github.com/Xmorelle/webpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pardoen at UCL in Belgium. Then, I have pursued with a post-doctoral stay in the group of Pr. Zhigang Suo at Harvard University in the field of Soft Active Materials for 2 years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI ParisTech with Pr. Costantino Creton and Pr. Matteo Ciccotti.
+
+During the thesis, I have worked in the field of polymer mechanics and more especially, on the characterization and modeling of the mechanical and micro-mechanical behavior of RTM6 epoxy resin. Through a strong experimental work basis, I have come to highlight an elasto-viscoelastic-viscoplastic behavior of the epoxy and also identified simple fracture criteria. Instead of relying on purely phenomenological descriptions of the material behavior, I focused on the understanding of the underlying micro-mechanisms, and proposed a physics-based original theory, capable of reproducing the complete range of experimental results.
+
+### Scientific Vision
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
