@@ -11,7 +11,7 @@ keywords : Mechanics of Soft polymer networks, mechanical characterization, micr
 
 ### Education & Academic achievements
 
-![ESPCI](/pictures/ESPCI-logo.png){:width="4cm"}
+![ESPCI](/pictures/ESPCI-logo.png){:width="200px"}
 ```
 # 2017 - now : ESPCI | PSL, Paris, FRANCE 
 ```
