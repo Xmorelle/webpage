@@ -7,7 +7,7 @@ I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pa
 
 ### Scientific Vision
 
-keywords : Mechanics of Soft polymer networks, mechanical characterization, micro-mechanical modeling
+_keywords_ : Mechanics of Soft polymer networks, mechanical characterization, micro-mechanical modeling
 
 ### Education & Academic achievements
 
@@ -44,12 +44,3 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 - Best Master Thesis Presentation prize}{organized by AILouvain - Ecole Polytechnique de Louvain - UCLouvain (2011)
 - AGC Scholarship, organized by Ecole Polytechnique de Louvain - UCLouvain (2010)
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
