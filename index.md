@@ -59,9 +59,9 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 
 3.
 
-2.
+2. V.-D. Nguyen, F. Lani, T. Pardoen, **X. P. Morelle**, L. Noels, "A large strain hyperelastic viscoelastic-viscoplastic-damage constitutive model based on a multi-mechanism non-local damage continuum for amorphous glassy polymers", _International Journal of Solids and Structures_, vol. 96, **2016**, pp. 192-216. [https://doi.org/10.1016/j.ijsolstr.2016.06.008](https://doi.org/10.1016/j.ijsolstr.2016.06.008)
 
-1. A. Bahrami, **X. P. Morelle**, b, L. D. Hông Minh, T. Pardoen, C. Bailly, B. Nysten, "Curing dependent spatial heterogeneity of mechanical response in epoxy resins revealed by atomic force microscopy", _Polymer_, vol. 68, **2015**, pp. 1-10. [https://doi.org/10.1016/j.polymer.2015.04.084.](https://doi.org/10.1016/j.polymer.2015.04.084.)
+1. A. Bahrami, **X. P. Morelle**, L. D. Hông Minh, T. Pardoen, C. Bailly, B. Nysten, "Curing dependent spatial heterogeneity of mechanical response in epoxy resins revealed by atomic force microscopy", _Polymer_, vol. 68, **2015**, pp. 1-10. [https://doi.org/10.1016/j.polymer.2015.04.084](https://doi.org/10.1016/j.polymer.2015.04.084)
 
 
 ### Teaching and supervision
