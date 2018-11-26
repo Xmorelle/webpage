@@ -7,7 +7,7 @@ I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pa
 
 ### Scientific Vision
 
-_keywords_ : mechanics of soft polymer networks, experimental characterization, micro-mechanical modeling, multi-scale approach.
+_keywords_ : mechanics and fracture of soft polymer networks, multi-scale characterization approach, micro-mechanical physics-based modeling, design of smart multifunctional devices.
 
 * * *
 
