@@ -49,7 +49,7 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 
 8. E. Zhang, R. Bai, **X. P. Morelle**, Z. Suo, "Fatigue fracture of nearly elastic hydrogels", _Soft Matter_, vol 14, **2018**, pp. 3563-3571. [https://doi.org/10.1039/C8SL00460A](https://doi.org/10.1039/C8SL00460A)
 
-7. R. Bai, J. Yang, **X. P. Morelle**, C. Yang, Z. Suo, "Fatigue fracture of tough hydrogels", _ACS Macro Letters_, vol 7, **2018**, pp. 312-317. [https://doi.org/10.1021/acsmacrolett.8b00045](https://doi.org/10.1021/acsmacrolett.8b00045)
+7. R. Bai, J. Yang, **X. P. Morelle**, C. Yang, Z. Suo, "Fatigue fracture of self-recovery hydrogels", _ACS Macro Letters_, vol 7, **2018**, pp. 312-317. [https://doi.org/10.1021/acsmacrolett.8b00045](https://doi.org/10.1021/acsmacrolett.8b00045)
 
 6. **X. P. Morelle**, R. Bai, Z. Suo, "Localized deformation in Plastic Liquids on Elastomers", _Journal of Applied Mechanics_, vol. 84 : issue 10, **2017**, pp. 101002 [https://doi.org/10.1115/1.4037410](https://doi.org/10.1115/1.4037410)
 
