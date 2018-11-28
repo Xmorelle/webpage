@@ -8,6 +8,10 @@ I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pa
 
 To learn more details on my backgroung, have a look at my [CV](/pdf%20downloadable%20files/CV_XavierMORELLE_nov2018.pdf).
 
+### Recent news
+
+- **11/2018** : my abstract for the 42nd Annual Meeting of the Adhesion Society got accepted, see you in Hilton Head, South Carolina in February 2019!
+
 ### Scientific Vision
 
 "Hard is overrated, soft is dope!"
