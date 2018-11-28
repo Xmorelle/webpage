@@ -3,21 +3,25 @@
 
 ### About me
 
-I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pardoen at UCL in Belgium. Then, I have pursued with a post-doctoral stay in the group of Pr. Zhigang Suo at Harvard University in the field of Soft Active Materials for 2 years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI ParisTech with Pr. Costantino Creton and Pr. Matteo Ciccotti.
+I am an enthousiastic researcher focusing on the mechanics of soft polymer networks.
+I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pardoen at UCLouvain in Belgium. Then, I have pursued with a post-doctoral stay in the group of Pr. Zhigang Suo at Harvard University in the field of Soft Active Materials for 2 years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI ParisTech with Pr. Costantino Creton and Pr. Matteo Ciccotti.
 
 ### Scientific Vision
 
 _keywords_ : mechanics and fracture of soft polymer networks, multi-scale characterization approach, micro-mechanical physics-based modeling, design of smart multifunctional devices.
+
+Hard is overrated, soft is dope!
 
 * * *
 
 ### Education & Academic achievements
 
 ![ESPCI](/pictures/ESPCI-logo.png){:width="400px"}
-```
+
 # 2017 - now : ESPCI | PSL, Paris, FRANCE 
 ```
 Fundamental research using mechano-chemistry as a tool to study the mechanics and fracture of soft polymer networks, going from adhesives to hydrogels and elastomers. A focus is set on the understanding of the fatigue behavior and the toughening mechanisms occuring in multiple network hydrogels and elastomers through optical analysis of fluorescent molecular markers.
+```
 
 ![Harvard](/pictures/Harvard_logo.png){:height="200px"}
 ```
