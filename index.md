@@ -98,5 +98,8 @@ _to be completed..._
 
 ### Professional social media
 
-
+- Google scholar page : [citations](https://scholar.google.fr/citations?user=ShCxF94AAAAJ&hl=fr)
+- Research gate page : [link](www.researchgate.net/profile/Xavier_Morelle)
+- Linkedin page : [www.linkedin.com/in/xavier-morelle/](www.linkedin.com/in/xavier-morelle/)
+- ORCID link : [orcid.org/0000-0001-6508-8945](orcid.org/0000-0001-6508-8945)
 
