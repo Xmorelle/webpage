@@ -12,6 +12,8 @@ To learn more details on my backgroung, have a look at my [CV](/pdf%20downloadab
 
 - **11/2018** : my abstract for the 42nd Annual Meeting of the Adhesion Society got accepted, see you in Hilton Head, South Carolina in February 2019!
 
+- **12/2018** : Stay tuned for some "big" changes as a complete re-shape of this website is planned for mid-december! (sorry in advance for possible maintenance unavailability or small mistakes that will inevitably occur during this process)
+
 ### Scientific Vision
 
 "Hard is overrated, soft is dope!"
@@ -51,10 +53,14 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 
 ### Publications
 
+**2019**
+* * *
 13. R. Bai, J. Wang, **X. P. Morelle**, Z. Suo, "Flaw-insensitive hydrogels under static and cyclic loads", _submitted to Advanced Materials_, **2019**.
 
 12. J. Chevalier, **X. P. Morelle**, P. P. Camanho, F. Lani, T. Pardoen, "On a unique fracture mechanism for highly cross-linked epoxy resins", _Journal of Mechanics and Physics of Solids_, vol 122, **2019**, pp.502-519. [https://doi.org/10.1016/j.jmps.2018.09.028](https://doi.org/10.1016/j.jmps.2018.09.028)
 
+**2018**
+***
 11. J. Chevalier, L. Brassart, F. Lani, C. Bailly, T. Pardoen, **X. P. Morelle**, "Unveilling the nanoscale heterogeneity controlled deformation of thermosets", _Journal of the Mechanics and Physics of Solids_, vol 121, **2018**, pp. 432-446. [https://doi.org/10.1016/j.jmps.2018.08.014](https://doi.org/10.1016/j.jmps.2018.08.014)
 
 10. **X. P. Morelle**, W. R. Illeperuma, K. Tian, R. Bai, Z. Suo, J. J. Vlassak, "Highly stretchable and tough hydrogels below water freezing temperatures", _Advanced Materials_, vol 30, **2018**, 1801541. [https://doi.org/10.1002/adma.201801541](https://doi.org/10.1002/adma.201801541)
@@ -96,9 +102,20 @@ _to be completed..._
 
 
 * * *
+
 ### Professional and community services
 
-_to be completed..._
+- **Trustee in the board of directors** of Gravelines rowing club (2017-now) - As a trustee, I get involved into the general management, planning and new projects development of Gravelines rowing club. My missions non exhaustively include the organization and participation to international rowing regattas, preparation of the annual general membership meeting, and promotion of the club activities on social networks.
+
+- **Lab safety officer and equipmeng trainer** in Suo Lab at Harvard University (2016-2017) - Emergency lab contact, development of equipment safety procedure, LN2 ordering, chemical inventory and waste disposal coordination. Person-in-charge for new training on Instron testing machine and on the high-voltage amplifier.
+
+- **Board member of Harvard-MIT Belgian Society** in Boston (2016-2017) - Organizing social networking events and open debates among the belgian community (and more) in the Boston area, in order to promote Belgian scientific, political or economical personalities and achievements.
+
+- **New equipment purchase and installation** for Suo Lab installation at Harvard University (2016) - Purchase of a universal testing machine with associated load cells and temperature chamber. Coordination of lab duct work and machine installation with Harvard McKay building teams.
+
+- **co-organizer of PhD promotion day** at iMMC, UCLouvain (2011-2014) - Lab promotion presentation and visit organized for 2nd year engineering master students.
+
+- **Student representative** at EPL, UCLouvain (2008-2011) - Involvement within the Applied Physics and Chemistry degree program commission and work with academic authorities. Coordinate and organize examination schedule as well as other extra-academic group activities.
 
 ### Professional social media
 
