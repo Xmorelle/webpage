@@ -96,15 +96,15 @@ _to be completed..._
 * * *
 
 ### Awards & Fellowships
-- Qualification Maître de Conférences - aptitude certification to be an engineering professor in France (2018-2022)
-- WBI World Excellence Fellowship (2017-2019)
-- 2nd Best Scientific Picture at 2018 PC-Focus day, organized by ESPCI Paris (2018)
-- Cabeaux-Jacobs Fellow, provided by the Belgian American Educational Foundation (B.A.E.F.) (2015-2016)
-- FNRS Doctoral Research Fellowship, provided by the Belgian National Fund for Scientific Research (FNRS) (2012-2015)
-- Best Presentation at the 10th Annual SAMPE Benelux student meeting (2012)
-- FRIA Doctoral Research Fellowship, provided by the Belgian National Fund for Scientific Research (FNRS) (2011-2012)
-- Best Master Thesis Presentation prize, organized by AILouvain - Ecole Polytechnique de Louvain - UCLouvain (2011)
-- AGC Scholarship, organized by Ecole Polytechnique de Louvain - UCLouvain (2010)
+- **Qualification Maître de Conférences** - aptitude certification to be an engineering professor in France (2018-2022)
+- **WBI World Excellence Fellowship** (2017-2019)
+- **2nd Best Scientific Picture** at 2018 PC-Focus day, organized by ESPCI Paris (2018)
+- **Cabeaux-Jacobs Fellow**, provided by the Belgian American Educational Foundation (B.A.E.F.) (2015-2016)
+- **FNRS Doctoral Research Fellowship**, provided by the Belgian National Fund for Scientific Research (FNRS) (2012-2015)
+- **Best Presentation** at the 10th Annual SAMPE Benelux student meeting (2012)
+- **FRIA Doctoral Research Fellowship**, provided by the Belgian National Fund for Scientific Research (FNRS) (2011-2012)
+- **Best Master Thesis Presentation prize**, organized by AILouvain - Ecole Polytechnique de Louvain - UCLouvain (2011)
+- **AGC Scholarship**, organized by Ecole Polytechnique de Louvain - UCLouvain (2010)
 
 
 * * *
