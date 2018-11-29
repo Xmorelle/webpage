@@ -63,7 +63,7 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 
 **2018**
 * * *
-11. J. Chevalier, L. Brassart, F. Lani, C. Bailly, T. Pardoen, **X. P. Morelle**, "Unveilling the nanoscale heterogeneity controlled deformation of thermosets", _Journal of the Mechanics and Physics of Solids_, vol 121, **2018**, pp. 432-446. [https://doi.org/10.1016/j.jmps.2018.08.014](https://doi.org/10.1016/j.jmps.2018.08.014)
+11. J. Chevalier#, L. Brassart, F. Lani, C. Bailly, T. Pardoen, **X. P. Morelle#**, "Unveilling the nanoscale heterogeneity controlled deformation of thermosets", _Journal of the Mechanics and Physics of Solids_, vol 121, **2018**, pp. 432-446. [https://doi.org/10.1016/j.jmps.2018.08.014](https://doi.org/10.1016/j.jmps.2018.08.014)
 
 10. **X. P. Morelle**, W. R. Illeperuma, K. Tian, R. Bai, Z. Suo, J. J. Vlassak, "Highly stretchable and tough hydrogels below water freezing temperatures", _Advanced Materials_, vol 30, **2018**, 1801541. [https://doi.org/10.1002/adma.201801541](https://doi.org/10.1002/adma.201801541)
 
@@ -99,7 +99,7 @@ _to be completed..._
 
 ### Awards & Fellowships
 - **Qualification Maître de Conférences** - aptitude certification to be an engineering professor in France (2018-2022)
-- **WBI World Excellence Fellowship** (2017-2019)
+- **WBI World Excellence Fellowship**, provided by Wallonie-Bruxelles International (2017-2019)
 - **2nd Best Scientific Picture** at 2018 PC-Focus day, organized by ESPCI Paris (2018)
 - **Cabeaux-Jacobs Fellow**, provided by the Belgian American Educational Foundation (B.A.E.F.) (2015-2016)
 - **FNRS Doctoral Research Fellowship**, provided by the Belgian National Fund for Scientific Research (FNRS) (2012-2015)
