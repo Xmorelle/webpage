@@ -14,7 +14,7 @@ To learn more details on my backgroung, have a look at my [CV](/pdf%20downloadab
 
 - **11/2018** : my abstract for the 42nd Annual Meeting of the Adhesion Society got accepted, see you in Hilton Head, South Carolina in February 2019!
 
-- **10/2018** : second paper of the fall accepted for publication in JMPS! Perfect timing for Jérémy's PhD defense => with a big congrats on the hard work done, and finally paying back!
+- **10/2018** : second paper of the fall accepted for publication in JMPS! Perfect timing for Jérémy Chevalier's PhD defense => with a big congrats on the hard work done, and finally paying back!
 
 
 ### Scientific Vision
