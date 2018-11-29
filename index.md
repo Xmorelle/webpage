@@ -20,8 +20,7 @@ To learn more details on my backgroung, have a look at my [CV](/pdf%20downloadab
 ### Scientific Vision
 
 "Hard is overrated, soft is dope!"
-
-Ride on in with me on the new soft active material wave 🤙🏻🏄‍♂️🌊 (an amateur research surfer seeking collaborations)
+=> Ride on in with me on the new soft active material wave 🤙🏻🏄‍🌊 (an amateur research surfer seeking for good waves and collaborations ;-)
 
 _keywords_ : mechanics and fracture of soft polymer networks, multi-scale characterization approach, micro-mechanical physics-based modeling, design of smart multifunctional devices.
 
