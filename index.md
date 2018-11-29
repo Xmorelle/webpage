@@ -71,16 +71,22 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 
 7. R. Bai, J. Yang, **X. P. Morelle**, C. Yang, Z. Suo, "Fatigue fracture of self-recovery hydrogels", _ACS Macro Letters_, vol 7, **2018**, pp. 312-317. [https://doi.org/10.1021/acsmacrolett.8b00045](https://doi.org/10.1021/acsmacrolett.8b00045)
 
+**2017**
+* * *
 6. **X. P. Morelle**, R. Bai, Z. Suo, "Localized deformation in Plastic Liquids on Elastomers", _Journal of Applied Mechanics_, vol. 84 : issue 10, **2017**, pp. 101002 [https://doi.org/10.1115/1.4037410](https://doi.org/10.1115/1.4037410)
 
 5. R. Bai, Q. Yang, J. Tang, **X. P. Morelle**, J. Vlassak, Z. Suo, "Fatigue fracture of tough hydrogels", _Extreme Mechanics Letters_, vol 15, **2017**, pp. 91-96. [https://doi.org/10.1016/j.eml.2017.07.002](https://doi.org/10.1016/j.eml.2017.07.002)
 
 4. **X. P. Morelle**, J. Chevalier, C. Bailly, T. Pardoen, F. Lani, "Mechanical characterization and modeling of the deformation and failure of the highly crosslinked RTM6 epoxy resin", _Mechanics of Time-Dependent Materials_, vol. 21 : issue 3, **2017**, pp. 419-454. [https://doi.org/10.1007/s11043-016-9336-6](https://doi.org/10.1007/s11043-016-9336-6)
 
+**2016**
+* * *
 3. J. Chevalier, **X. P. Morelle**, C. Bailly, P.P. Camanho, T. Pardoen, F. Lani, "Micro-mechanics based pressure dependent failure model for highly cross-linked epoxy resin", _Engineering Fracture Mechanics_, vol. 158, **2016**, pp.192-216. [https://doi.org/1016/j.engfracmech.201602.039](https://doi.org/1016/j.engfracmech.201602.039)
 
 2. V.-D. Nguyen, F. Lani, T. Pardoen, **X. P. Morelle**, L. Noels, "A large strain hyperelastic viscoelastic-viscoplastic-damage constitutive model based on a multi-mechanism non-local damage continuum for amorphous glassy polymers", _International Journal of Solids and Structures_, vol. 96, **2016**, pp. 192-216. [https://doi.org/10.1016/j.ijsolstr.2016.06.008](https://doi.org/10.1016/j.ijsolstr.2016.06.008)
 
+**2015**
+* * *
 1. A. Bahrami, **X. P. Morelle**, L. D. Hông Minh, T. Pardoen, C. Bailly, B. Nysten, "Curing dependent spatial heterogeneity of mechanical response in epoxy resins revealed by atomic force microscopy", _Polymer_, vol. 68, **2015**, pp. 1-10. [https://doi.org/10.1016/j.polymer.2015.04.084](https://doi.org/10.1016/j.polymer.2015.04.084)
 
 
