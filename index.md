@@ -60,7 +60,7 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 12. J. Chevalier, **X. P. Morelle**, P. P. Camanho, F. Lani, T. Pardoen, "On a unique fracture mechanism for highly cross-linked epoxy resins", _Journal of Mechanics and Physics of Solids_, vol 122, **2019**, pp.502-519. [https://doi.org/10.1016/j.jmps.2018.09.028](https://doi.org/10.1016/j.jmps.2018.09.028)
 
 **2018**
-***
+* * *
 11. J. Chevalier, L. Brassart, F. Lani, C. Bailly, T. Pardoen, **X. P. Morelle**, "Unveilling the nanoscale heterogeneity controlled deformation of thermosets", _Journal of the Mechanics and Physics of Solids_, vol 121, **2018**, pp. 432-446. [https://doi.org/10.1016/j.jmps.2018.08.014](https://doi.org/10.1016/j.jmps.2018.08.014)
 
 10. **X. P. Morelle**, W. R. Illeperuma, K. Tian, R. Bai, Z. Suo, J. J. Vlassak, "Highly stretchable and tough hydrogels below water freezing temperatures", _Advanced Materials_, vol 30, **2018**, 1801541. [https://doi.org/10.1002/adma.201801541](https://doi.org/10.1002/adma.201801541)
