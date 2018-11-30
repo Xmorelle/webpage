@@ -17,7 +17,7 @@ To learn more details on my backgroung, have a look at my [CV](/pdf%20downloadab
 - **10/2018** : second paper of the fall accepted for publication in JMPS! Perfect timing for Jérémy Chevalier's PhD defense => with a big congrats on the hard work done, and finally paying back!
 
 
-### Scientific Vision
+### Scientific Vision and Projects
 
 _keywords_ : mechanics and fracture of soft polymer networks, multi-scale characterization approach, micro-mechanical physics-based modeling, design of smart multifunctional devices.
 
