@@ -91,19 +91,28 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 
 
 ### Teaching 
-- **2014-2015** - Lecturer for a topical seminar in a Materials science master course, _Ecole Polytechnique de Louvain -- UCLouvain_ A two-hours seminar on the viscoplasticity of polymers, given for an auditorium of 50 engineering students in their 2nd year of master degree.
-- **2011-2015** - Lab assistant in Deformation and Fracture of Materials master course, _Ecole Polytechnique de Louvain -- UCLouvain_ Small theoretical courses and supervision of mechanical testing labs for groups of 20-30 engineering students in their 1st year of master degree.
-- **2009-2011** - Teaching assistant in Physcis and Chemistry bachelor courses, _Ecole Polytechnique de Louvain --  UCLouvain Monitoring of lab and exercise sessions for 1st and 2nd year undergrad engineering students.
-Group management learning technics training (72 hours over 3 months).
+- 2014-2015 : **LMAPR2481 – Deformation and Fracture of Materials** - _Ecole Polytechnique de Louvain, UCLouvain_ - Seminar lecturer. 
+
+Invited lecturer for a 2h seminar on the viscoplasticity of polymers, given to an auditorium of 50 engineering students in their 2nd year of master degree.
+
+-	2011-2015 : **LMAPR2481 – Deformation and Fracture of Materials** - _Ecole Polytechnique de Louvain, UCLouvain_ - Teaching assistant.
+
+
+Preparation and monitoring of lab sessions (2h/week) with a brief theoretical course before actual experiments given to 50 engineering students in their 1st year of master degree. T.A. also involved the correction and grading of lab reports.
+_Topic_ : lab #1 (Deformation and fracture at the macro-scale - uniaxial tension test and stress-strain curves); lab #2 (Introduction to fracture and concept of toughness - Critical stress intensity factor (K1c) computation.
 
 
 -	2010-2011 : **LFSAB1301 – Chemistry and physico-chemistry 1** - _Ecole Polytechnique de Louvain, UCLouvain_ - Teaching assistant.
-Monitoring exercises sessions (4h/week) of classes of 30 students in 1st year of bachelor in engineering?
-Topic : Atomic structure, intra- and inter-molecular bounds and associated properties; introduction to thermodynamics (concepts of enthalpy, heat, entropy, spontaneous and non-spontaneous processes); acid-base reactions.
+
+
+Monitoring exercises sessions (4h/week) of classes of 30 students in 1st year of bachelor in engineering.
+_Topic_ : Atomic structure, intra- and inter-molecular bounds and associated properties; introduction to thermodynamics (concepts of enthalpy, heat, entropy, spontaneous and non-spontaneous processes); acid-base reactions.
 
 -	2009-2010 : **LFSAB1302 – Chemistry and physico-chemistry 2** - _Ecole Polytechnique de Louvain, UCLouvain_ - Teaching assistant.
+
+
 Monitoring excercise and lab session (2h/week + 6h of lab) of classes of 20 students in 2nd year of bachelor in engineering.
-Topic : Perfect gases, kinetic theory of gases; 1st (closed and open systems) and 2nd principle of thermodynamics ; chemical equilibrium between gaseous and aqueous phases; applications to electro-chemistry and redox reactions.
+_Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) and 2nd principle of thermodynamics ; chemical equilibrium between gaseous and aqueous phases; applications to electro-chemistry and redox reactions.
 
 * * *
 
