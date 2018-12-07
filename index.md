@@ -96,6 +96,15 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 - **2009-2011** - Teaching assistant in Physcis and Chemistry bachelor courses, _Ecole Polytechnique de Louvain --  UCLouvain Monitoring of lab and exercise sessions for 1st and 2nd year undergrad engineering students.
 Group management learning technics training (72 hours over 3 months).
 
+
+-	2010-2011 : **LFSAB1301 – Chemistry and physico-chemistry 1** - _Ecole Polytechnique de Louvain, UCLouvain_ - Teaching assistant.
+Monitoring exercises sessions (4h/week) of classes of 30 students in 1st year of bachelor in engineering?
+Topic : Atomic structure, intra- and inter-molecular bounds and associated properties; introduction to thermodynamics (concepts of enthalpy, heat, entropy, spontaneous and non-spontaneous processes); acid-base reactions.
+
+-	2009-2010 : **LFSAB1302 – Chemistry and physico-chemistry 2** - _Ecole Polytechnique de Louvain, UCLouvain_ - Teaching assistant.
+Monitoring excercise and lab session (2h/week + 6h of lab) of classes of 20 students in 2nd year of bachelor in engineering.
+Topic : Perfect gases, kinetic theory of gases; 1st (closed and open systems) and 2nd principle of thermodynamics ; chemical equilibrium between gaseous and aqueous phases; applications to electro-chemistry and redox reactions.
+
 * * *
 
 ### Awards & Fellowships
