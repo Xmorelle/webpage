@@ -92,7 +92,7 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 
 ### Teaching 
 - **2014-2015** - Lecturer for a topical seminar in a Materials science master course, _Ecole Polytechnique de Louvain -- UCLouvain_ A two-hours seminar on the viscoplasticity of polymers, given for an auditorium of 50 engineering students in their 2nd year of master degree.
-- **2011-2015** - Lab assistant in Deformation and Fracture of Materials master course, _Ecole Polytechnique de Louvain -- UCLouvain_ Small theoretical courses and supervision of mechanical testing labs for groups of 20-30 engineering students in their $1{st}$ year of master degree.
+- **2011-2015** - Lab assistant in Deformation and Fracture of Materials master course, _Ecole Polytechnique de Louvain -- UCLouvain_ Small theoretical courses and supervision of mechanical testing labs for groups of 20-30 engineering students in their 1st year of master degree.
 - **2009-2011** - Teaching assistant in Physcis and Chemistry bachelor courses, _Ecole Polytechnique de Louvain --  UCLouvain Monitoring of lab and exercise sessions for 1st and 2nd year undergrad engineering students.
 Group management learning technics training (72 hours over 3 months).
 
