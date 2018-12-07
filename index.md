@@ -10,7 +10,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
-- **12/2018** : Stay tuned for some "big" changes as a complete re-shape of this website is planned for mid-december! (sorry in advance for possible maintenance unavailability or small mistakes that will inevitably occur during this process)
+- **12/2018** : Stay tuned for some "big" changes as a complete re-shape of this website is planned for end of December! (sorry in advance for possible maintenance unavailability or small mistakes that will inevitably occur during this process)
 
 - **11/2018** : my abstract for the 42nd Annual Meeting of the Adhesion Society got accepted, see you in Hilton Head, South Carolina in February 2019!
 
