@@ -89,6 +89,7 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 * * *
 1. A. Bahrami, **X. P. Morelle**, L. D. Hông Minh, T. Pardoen, C. Bailly, B. Nysten, "Curing dependent spatial heterogeneity of mechanical response in epoxy resins revealed by atomic force microscopy", _Polymer_, vol. 68, **2015**, pp. 1-10. [https://doi.org/10.1016/j.polymer.2015.04.084](https://doi.org/10.1016/j.polymer.2015.04.084)
 
+* * *
 
 ### Teaching 
 - 2014-2015 : **LMAPR2481 – Deformation and Fracture of Materials** - _Ecole Polytechnique de Louvain, UCLouvain_ - Seminar lecturer. 
@@ -113,6 +114,14 @@ _Topic_ : Atomic structure, intra- and inter-molecular bounds and associated pro
 
 Monitoring excercise and lab session (2h/week + 6h of lab) of classes of 20 students in 2nd year of bachelor in engineering.
 _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) and 2nd principle of thermodynamics ; chemical equilibrium between gaseous and aqueous phases; applications to electro-chemistry and redox reactions.
+
+### Supervision
+
+- **post-graduate level** (2) _not in dissertation commitee_ : mentoring and collaborative work with Jérémy Chevalier (2015-2018) at UCLouvain, and Ruobing Bai (2016-2017) at Harvard University.
+
+- **graduate level** (3) : daily based supervision of master students thesis project (6 months to 1 year) : Loïc Van Nieuwenhuyse (2014-2015, materials science), Minh Le Duy (2013-2014, macromolecular nanotechnology), Jesus Gutierrez Martinez (2012-2013, mechanical engineering).
+
+- **undergrad level** (1) : co-supervision of Enrui Zhang (2016) for a 6 month visiting research internship at Harvard University.
 
 * * *
 
