@@ -146,6 +146,8 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Professional and community services
 
+- **Lab visit and science promotion for teenagers** in SIMM lab at ESPCI Paris (2017-now) - Organization of small lab visit and experimental demonstration for high school students during occasional week-long science camps.
+
 - **Trustee in the board of directors** of Gravelines rowing club (2017-now) - As a trustee, I get involved into the general management, planning and new projects development of Gravelines rowing club. My missions non exhaustively include the organization and participation to international rowing regattas, preparation of the annual general membership meeting, and promotion of the club activities on social networks.
 
 - **Lab safety officer and equipmeng trainer** in Suo Lab at Harvard University (2016-2017) - Emergency lab contact, development of equipment safety procedure, LN2 ordering, chemical inventory and waste disposal coordination. Person-in-charge for new training on Instron testing machine and on the high-voltage amplifier.
