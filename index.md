@@ -49,7 +49,7 @@ Research in materials science with both experimental and modeling work in the fi
 Collaborations on applied research projects with the aeronautical industry (Safran group, TechSpace Aero, Sonaca), as well as fundamental research with other international groups (KULeuven, Trinity College, IMDEA, Imperial College), were pursued in parallel.
 **Dissertation**: "Mechanical Characterization and Physics-Based Modeling of a Highly-Crosslinked Epoxy Resin", _supervised by_ Pr. Thomas Pardoen \& Pr. Christian Bailly.
 
-![TUe](/pictures/tue-logo.png){:width=200px"}
+![TUe](/pictures/tue-logo.png){:width=150px"}
 ```
 # 2010 - 2011 : Erasmus student exchange in the Chemical Engineering and Chemistry Department | TU/e Eindhoven University of Technology, Eindhoven, NETHERLANDS
 ```
