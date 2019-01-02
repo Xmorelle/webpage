@@ -49,6 +49,11 @@ Research in materials science with both experimental and modeling work in the fi
 Collaborations on applied research projects with the aeronautical industry (Safran group, TechSpace Aero, Sonaca), as well as fundamental research with other international groups (KULeuven, Trinity College, IMDEA, Imperial College), were pursued in parallel.
 **Dissertation**: "Mechanical Characterization and Physics-Based Modeling of a Highly-Crosslinked Epoxy Resin", _supervised by_ Pr. Thomas Pardoen \& Pr. Christian Bailly.
 
+![TUe](/pictures/tue-logo.png){:width=200px"}
+```
+# 2010 - 2011 : Erasmus student exchange in the Chemical Engineering and Chemistry Department | TU/e Eindhoven University of Technology, Eindhoven, NETHERLANDS
+```
+Five months stay as a visiting master student, including a two-months research project in the field of nano-composites under the supervision of Pr. L.E. Govaert and Pr. J.G.P. Goosens.
 * * *
 
 ### Publications
@@ -164,4 +169,3 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 - 07/2017 : Daily Science article on Belgian scientists abraod (FR) : [Matériaux intelligents et régates à Harvard](http://dailyscience.be/17/07/2017/materiaux-intelligents-et-regates-a-harvard-les-deux-passions-de-xavier-morelle/)
 
-_to be further completed..._
