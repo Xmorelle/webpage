@@ -41,7 +41,7 @@ Fundamental research using mechano-chemistry as a tool to study the mechanics an
 ```
 Research in the field of soft active materials in the group of Pr. Zhigang Suo. My research involved the preparation of tough hydrogels, their specific mechanical and fracture characterization under a large variety of testing conditions (from sub-zero temperatures to fatigue loading), as well as the development of new engineering devices making use of their multifunctional properties.
 
-![UCLouvain](/pictures/UCLouvain_Logo.jpg){:width="250px"}
+![UCLouvain](/pictures/UCLouvain_Logo.jpg){:width="300px"}
 ```
 # 2011 - 2015 : IMAP, iMMC | UCLouvain, Louvain-la-Neuve, BELGIUM
 ```
