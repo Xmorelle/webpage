@@ -21,7 +21,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 _keywords_ : mechanics and fracture of soft polymer networks, multi-scale characterization approach, micro-mechanical physics-based modeling, design of smart multifunctional devices.
 
-A common trait throughout my whole research experience is thus this strong will of seeking a better molecular understanding of polymer networks deformation and fracture micromechanisms, in order to in-fine establish more clearly the relation between polymer microstructure and their macroscopic properties. Building on the knowledge of this theoretical quest, I also envision to tackle more multi-disciplinary and coupled problems through the study and design of those passionating soft active materials. The area of soft matter mechanics being extremely vast, it still offers plenty of room for new exciting developments.
+A common trait throughout my whole research experience is the strong will of seeking a better molecular understanding of polymer networks deformation and fracture micromechanisms, in order to _in-fine_ establish more clearly the relation between polymer microstructure and their macroscopic properties. Building on the knowledge of this theoretical quest, I also envision to tackle more multi-disciplinary and coupled problems through the study and design of those passionating soft active materials. The area of soft matter mechanics being extremely vast, it still offers plenty of room for new exciting developments.
 
 _Projects : in construction..._
 
