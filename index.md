@@ -4,13 +4,15 @@
 ### About me
 
 I am an enthousiastic post-doctoral researcher focusing on the mechanics of soft polymer networks.
-I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pardoen at UCLouvain in Belgium. Then, I have pursued with a post-doctoral stay in the group of Pr. Zhigang Suo at Harvard University in the field of Soft Active Materials for 2 years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI ParisTech with Pr. Costantino Creton and Pr. Matteo Ciccotti.
+I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pardoen at UCLouvain in Belgium. Then, I have pursued with a post-doctoral stay in the group of Pr. Zhigang Suo at Harvard University in the field of Soft Active Materials for 2 years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with Pr. Costantino Creton and Pr. Matteo Ciccotti.
 
 To learn more details on my backgroung, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_mid-dec2018.pdf).
 
 ### Recent news
 
-- **12/2018** : Stay tuned for some "big" changes as a complete re-shape of this website is planned for the end of December! (sorry in advance for possible maintenance unavailability or small mistakes that will inevitably occur during this process)
+- **2/2019** : Our last paper on how to use anisotropy to design flaw-insensitive hydrogels that resist fatigue crack growth is just out! Have a look at it (see publications section) and thanks again to Ruobing Bai for the resilience in wrapping up this very nice work!
+
+- **1/2019** : Last minute change of plans, I will be replacing a colleague at the APS March meeting... so, new return to Boston in the beginning of March.
 
 - **11/2018** : my abstract for the 42nd Annual Meeting of the Adhesion Society got accepted, see you in Hilton Head, South Carolina in February 2019!
 
@@ -34,7 +36,7 @@ _Projects : in construction..._
 ```
 # 2017 - now : ESPCI | PSL, Paris, FRANCE 
 ```
-Fundamental research using mechano-chemistry as a tool to study the mechanics and fracture of soft polymer networks, going from adhesives to hydrogels and elastomers. A focus is set on the understanding of the fatigue behavior and the toughening mechanisms occuring in multiple network hydrogels and elastomers through optical analysis of fluorescent molecular markers.
+Fundamental research using mechano-chemistry as a tool to study the mechanics and fracture of soft polymer networks, going from adhesives to hydrogels and elastomers. A focus is set on the understanding of the toughening mechanisms occuring in multiple network hydrogels and elastomers through optical analysis of fluorescent molecular markers.
 
 
 ![Harvard](/pictures/Harvard_logo.png){:height="200px"}
@@ -62,7 +64,7 @@ Five months stay as a visiting master student, including a two-months research p
 
 **2019**
 * * *
-13. R. Bai, J. Wang, **X. P. Morelle**, Z. Suo, "Flaw-insensitive hydrogels under static and cyclic loads", _submitted to Advanced Materials_, **2019**.
+13. R. Bai, J. Wang, **X. P. Morelle**, Z. Suo, "Flaw-insensitive hydrogels under static and cyclic loads", _Macromolecular Rapid Communications_, **2019**, 1800883. [https://doi.org/10.1002/marc.201800883](https://doi.org/10.1002/marc.201800883)
 
 12. J. Chevalier, **X. P. Morelle**, P. P. Camanho, F. Lani, T. Pardoen, "On a unique fracture mechanism for highly cross-linked epoxy resins", _Journal of Mechanics and Physics of Solids_, vol 122, **2019**, pp.502-519. [https://doi.org/10.1016/j.jmps.2018.09.028](https://doi.org/10.1016/j.jmps.2018.09.028)
 
