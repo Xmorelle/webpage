@@ -10,7 +10,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
-- **3/2019** : The confirmation just came in, I got selected for presenting the "CNRS auditions" for a "Chargé de Recherche" position in the beginning of April. Also, a new section was added to this webpage with the "Invited talks" given over the last year.
+- **3/2019** : The confirmation just came in, I got selected for presenting the "CNRS auditions" for a "Chargé de Recherche" position in the beginning of April. Also, a new section was added to this webpage listing the different "Invited talks" given over the last years.
 
 - **2/2019** : Our last paper on how to use anisotropy to design flaw-insensitive hydrogels that resist fatigue crack growth is just out! Have a look at it (see publications section) and thanks again to Ruobing Bai for the resilience in wrapping up this very nice work!
 
