@@ -10,6 +10,8 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+- **3/2019** : The confirmation just came in, I got selected for presenting the "CNRS auditions" for a "Chargé de Recherche" position in the beginning of April. Also, a new section was added to this webpage with the "Invited talks" given over the last year.
+
 - **2/2019** : Our last paper on how to use anisotropy to design flaw-insensitive hydrogels that resist fatigue crack growth is just out! Have a look at it (see publications section) and thanks again to Ruobing Bai for the resilience in wrapping up this very nice work!
 
 - **1/2019** : Last minute change of plans, I will be replacing a colleague at the APS March meeting... so, new return to Boston in the beginning of March.
@@ -59,7 +61,26 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 ```
 Five months stay as a visiting master student, including a two-months research project in the field of nano-composites under the supervision of Pr. L.E. Govaert and Pr. J.G.P. Goosens.
 * * *
+### Invited talks
 
+**2019**
+
+- **APS (Amercian Physical Society) March meeting**, Boston (MA) - USA - March 6th : 
+_Towards a unified model of soft adhesives_ (on behalf of Matteo Ciccotti)
+
+- **University of Michigan**, Ann-Arbor (MI) - USA - February 27th : 
+_From the meso-scale modeling of epoxy resins to the fatigue of hydrogels: a micro-mechanical approach of polymer networks_
+
+- **Universidade do Porto**, Porto - POR - January 28th:
+_Macroscopic viscoplastic behavior of thermosets/RTM6_ 
+
+**2018** 
+
+- **INSA Lyon/ IMP Lab**, Lyon - FRA - October 2nd : 
+_From mechanical characterization towards physics-based modeling of soft polymer networks : from epoxy resins to hydrogels!_
+
+
+* * *
 ### Publications
 
 **2019**
@@ -97,22 +118,6 @@ Five months stay as a visiting master student, including a two-months research p
 **2015**
 * * *
 1. A. Bahrami, **X. P. Morelle**, L. D. Hông Minh, T. Pardoen, C. Bailly, B. Nysten, "Curing dependent spatial heterogeneity of mechanical response in epoxy resins revealed by atomic force microscopy", _Polymer_, vol. 68, **2015**, pp. 1-10. [https://doi.org/10.1016/j.polymer.2015.04.084](https://doi.org/10.1016/j.polymer.2015.04.084)
-
-* * *
-### Invited talks
-
-**2019**
-
-- **APS (Amercian Physical Society) March meeting**, Boston (MA) - USA - March 6th : 
-_Towards a unified model of soft adhesives_ (on behalf of Matteo Ciccotti)
-
-- **University of Michigan**, Ann-Arbor (MI) - USA - February 27th : 
-_From the meso-scale modeling of epoxy resins to the fatigue of hydrogels: a micro-mechanical approach of polymer networks_
-
-**2018** 
-
-- **INSA Lyon/ IMP Lab**, Lyon - FRA - October 2nd : 
-_From mechanical characterization towards physics-based modeling of soft polymer networks : from epoxy resins to hydrogels!_
 
 * * *
 ### Teaching 
