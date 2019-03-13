@@ -99,7 +99,19 @@ Five months stay as a visiting master student, including a two-months research p
 1. A. Bahrami, **X. P. Morelle**, L. D. Hông Minh, T. Pardoen, C. Bailly, B. Nysten, "Curing dependent spatial heterogeneity of mechanical response in epoxy resins revealed by atomic force microscopy", _Polymer_, vol. 68, **2015**, pp. 1-10. [https://doi.org/10.1016/j.polymer.2015.04.084](https://doi.org/10.1016/j.polymer.2015.04.084)
 
 * * *
+### Invited talks
 
+**2019**
+
+- APS (Amercian Physical Society) March meeting, Boston (MA) - USA - March 6th : _Towards a unified model of soft adhesives_ (on behalf of Matteo Ciccotti)
+
+- University of Michigan, Ann-Arbor (MI) - USA - February 27th : _From the meso-scale modeling of epoxy resins to the fatigue of hydrogels: a micro-mechanical approach of polymer networks_
+
+**2018** 
+
+- INSA Lyon/ IMP Lab, Lyon - FRA - October 2nd : _From mechanical characterization towards physics-based modeling of soft polymer networks : from epoxy resins to hydrogels!_
+
+* * *
 ### Teaching 
 - 2014-2015 : **LMAPR2481 – Deformation and Fracture of Materials** - _Ecole Polytechnique de Louvain, UCLouvain_ - Seminar lecturer. 
 
