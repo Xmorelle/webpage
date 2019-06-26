@@ -66,19 +66,19 @@ Five months stay as a visiting master student, including a two-months research p
 
 **2019**
 
-- **APS (Amercian Physical Society) March meeting**, Boston (MA) - USA - March 6th : 
-_Towards a unified model of soft adhesives_ (on behalf of Matteo Ciccotti)
+- **APS (American Physical Society) March meeting**, Boston (MA) - USA - March 6th : 
+_Towards a unified model of soft adhesives_ (on behalf of Matteo Ciccotti).
 
 - **University of Michigan**, Ann-Arbor (MI) - USA - February 27th : 
-_From the meso-scale modeling of epoxy resins to the fatigue of hydrogels: a micro-mechanical approach of polymer networks_
+_From the meso-scale modeling of epoxy resins to the fatigue of hydrogels: a micro-mechanical approach of polymer networks_.
 
 - **Universidade do Porto**, Porto - POR - January 28th:
-_Macroscopic viscoplastic behavior of thermosets/RTM6_ 
+_Macroscopic viscoplastic behavior of thermosets - RTM6 as a case study_.
 
 **2018** 
 
 - **INSA Lyon/ IMP Lab**, Lyon - FRA - October 2nd : 
-_From mechanical characterization towards physics-based modeling of soft polymer networks : from epoxy resins to hydrogels!_
+_From mechanical characterization towards physics-based modeling of soft polymer networks : from epoxy resins to hydrogels_.
 
 
 * * *
