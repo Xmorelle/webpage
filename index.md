@@ -10,7 +10,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
-- **6/2019** : Update in the "Supervision" section, with the warm welcome to the student Elina Gilbert (from ESPCI) who will be performing a research project on the fatigue of multiple-network elastomers that I will co-supervised with Dr. Gabriel Sanoja and Pr. Costantino Creton.
+- **6/2019** : Update in the "Supervision" section, with the warm welcome to the student Elina Gilbert (from ESPCI) who will be performing a research project on the fatigue of multiple-network elastomers that I will co-supervise with Dr. Gabriel Sanoja and Pr. Costantino Creton.
 
 - **5/2019** : See the "General Audience Media" for a new online article on some of the work I have been involved in at ESPCI with Pr. Matteo Ciccotti.
 
