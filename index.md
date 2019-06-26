@@ -198,8 +198,8 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### General audience media
 
-- 05/2019 : Following my talk at the APS March Meeting conference, a journalist (Ryan F. Mandelbaum) from the the american online science journal _Gizmodo_ contacted Pr. Matteo Ciccotti and wrote a nice article explaining some of the motivations and results of our group's work on adhesion of pressure sensitive adhesives. [Scientists Are Stuck on the Mystery of Tape](https://gizmodo.com/scientists-are-stuck-on-the-mystery-of-tape-1835074649)
+- 05/2019 : Following my talk at the APS March Meeting conference, a journalist (Ryan F. Mandelbaum) from the the American online science journal _Gizmodo_ contacted Pr. Matteo Ciccotti and wrote a nice article explaining some of the motivations and results of our group's work on adhesion of pressure sensitive adhesives. [Scientists Are Stuck on the Mystery of Tape](https://gizmodo.com/scientists-are-stuck-on-the-mystery-of-tape-1835074649)
 
-- 07/2017 : Daily Science article on Belgian scientists abraod (FR) : [Matériaux intelligents et régates à Harvard](http://dailyscience.be/17/07/2017/materiaux-intelligents-et-regates-a-harvard-les-deux-passions-de-xavier-morelle/)
+- 07/2017 : _Daily Science_ article on Belgian scientists abraod (FR) : [Matériaux intelligents et régates à Harvard](http://dailyscience.be/17/07/2017/materiaux-intelligents-et-regates-a-harvard-les-deux-passions-de-xavier-morelle/)
 
 
