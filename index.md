@@ -4,11 +4,15 @@
 ### About me
 
 I am an enthousiastic post-doctoral researcher focusing on the mechanics of soft polymer networks.
-I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pardoen at UCLouvain in Belgium. Then, I have pursued with a post-doctoral stay in the group of Pr. Zhigang Suo at Harvard University in the field of Soft Active Materials for 2 years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with Pr. Costantino Creton and Pr. Matteo Ciccotti.
+I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pardoen at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of Pr. Zhigang Suo at Harvard University in the field of Soft Active Materials for 2 years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with Pr. Costantino Creton and Pr. Matteo Ciccotti.
 
 To learn more details on my backgroung, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_mid-dec2018.pdf).
 
 ### Recent news
+
+- **6/2019** : Update in the "Supervision" section, with the warm welcome to the student Elina Gilbert (from ESPCI) who will be performing a research project on the fatigue of multiple-network elastomers that I will co-supervised with Dr. Gabriel Sanoja and Pr. Costantino Creton.
+
+- **5/2019** : See the "General Audience Media" for a new online article on some of the work I have been involved in at ESPCI with Pr. Matteo Ciccotti.
 
 - **3/2019** : The confirmation just came in, I got selected for presenting the "CNRS auditions" for a "Chargé de Recherche" position in the beginning of April. Also, a new section was added to this webpage listing the different "Invited talks" given over the last years.
 
@@ -18,14 +22,11 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 - **11/2018** : my abstract for the 42nd Annual Meeting of the Adhesion Society got accepted, see you in Hilton Head, South Carolina in February 2019!
 
-- **10/2018** : second paper of the fall accepted for publication in JMPS! Perfect timing for Jérémy Chevalier's PhD defense => with a big congrats on the hard work done, and finally paying back!
-
-
 ### Scientific Vision and Projects
 
 _keywords_ : mechanics and fracture of soft polymer networks, multi-scale characterization approach, micro-mechanical physics-based modeling, design of smart multifunctional devices.
 
-A common trait throughout my whole research experience is the strong will of seeking a better molecular understanding of polymer networks deformation and fracture micromechanisms, in order to _in-fine_ establish more clearly the relation between polymer microstructure and their macroscopic properties. Building on the knowledge of this theoretical quest, I also envision to tackle more multi-disciplinary and coupled problems through the study and design of those passionating soft active materials. The area of soft matter mechanics being extremely vast, it still offers plenty of room for new exciting developments.
+A common trait throughout my whole research experience is the strong will of seeking a better molecular understanding of polymer networks deformation and fracture micromechanisms, in order to _in-fine_ establish more clearly the relation between polymer microstructure and their macroscopic properties. Building on the knowledge of this rather theoretical quest, I also envision to tackle more multi-disciplinary and coupled problems through the study and design of soft active materials. The area of soft matter mechanics being extremely vast, it still offers plenty of room for new exciting developments.
 
 _Projects : in construction..._
 
@@ -85,6 +86,10 @@ _From mechanical characterization towards physics-based modeling of soft polymer
 
 **2019**
 * * *
+xx. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical Parameters governing heterogeneous adhesion of PSA on textured surfaces", **2019**, _under preparation_.
+
+yy. R. Bai, **X. P. Morelle**, J. Wang, Z. Suo, "Rupture and debonding of soft layered materials", **2019**, _under submission to Extreme Mechanics Letters_.
+
 13. R. Bai, J. Wang, **X. P. Morelle**, Z. Suo, "Flaw-insensitive hydrogels under static and cyclic loads", _Macromolecular Rapid Communications_, **2019**, 1800883. [https://doi.org/10.1002/marc.201800883](https://doi.org/10.1002/marc.201800883)
 
 12. J. Chevalier, **X. P. Morelle**, P. P. Camanho, F. Lani, T. Pardoen, "On a unique fracture mechanism for highly cross-linked epoxy resins", _Journal of Mechanics and Physics of Solids_, vol 122, **2019**, pp.502-519. [https://doi.org/10.1016/j.jmps.2018.09.028](https://doi.org/10.1016/j.jmps.2018.09.028)
@@ -148,9 +153,9 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 - **post-graduate level** (2) _not in dissertation commitee_ : mentoring and collaborative work with Jérémy Chevalier (2015-2018) at UCLouvain, and Ruobing Bai (2016-2017) at Harvard University.
 
-- **graduate level** (3) : daily based supervision of master students thesis project (6 months to 1 year) : Loïc Van Nieuwenhuyse (2014-2015, materials science), Minh Le Duy (2013-2014, macromolecular nanotechnology), Jesus Gutierrez Martinez (2012-2013, mechanical engineering).
+- **graduate level** (4) : daily based supervision of master students thesis project (6 months to 1 year) : Elina Gilbert (2019, materials science, ESPCI), Loïc Van Nieuwenhuyse (2014-2015, materials science, UCL), Minh Le Duy (2013-2014, macromolecular nanotechnology, UCL), Jesus Gutierrez Martinez (2012-2013, mechanical engineering, UCL).
 
-- **undergrad level** (1) : co-supervision of Enrui Zhang (2016) for a 6 month visiting research internship at Harvard University.
+- **undergrad level** (2) : co-supervision of 6 month research internship of : Ana Santos (2018, ESPCI) and Enrui Zhang (2016, Harvard University).
 
 * * *
 
@@ -193,5 +198,8 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### General audience media
 
+- 05/2019 : Following my talk at the APS March Meeting conference, a journalist (Ryan F. Mandelbaum) from the the american online science journal _Gizmodo_ contacted Pr. Matteo Ciccotti and wrote a nice article explaining some of the motivations and results of our group's work on adhesion of pressure sensitive adhesives. [Scientists Are Stuck on the Mystery of Tape](https://gizmodo.com/scientists-are-stuck-on-the-mystery-of-tape-1835074649)
+
 - 07/2017 : Daily Science article on Belgian scientists abraod (FR) : [Matériaux intelligents et régates à Harvard](http://dailyscience.be/17/07/2017/materiaux-intelligents-et-regates-a-harvard-les-deux-passions-de-xavier-morelle/)
+
 
