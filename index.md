@@ -86,7 +86,7 @@ _From mechanical characterization towards physics-based modeling of soft polymer
 
 **2019**
 * * *
-xx. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical Parameters governing heterogeneous adhesion of PSA on textured surfaces", **2019**, _under preparation_.
+xx. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", **2019**, _under preparation_.
 
 yy. R. Bai, **X. P. Morelle**, J. Wang, Z. Suo, "Rupture and debonding of soft layered materials", **2019**, _under submission to Extreme Mechanics Letters_.
 
