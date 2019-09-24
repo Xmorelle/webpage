@@ -10,6 +10,8 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+- **9/2019** : Abstract acceptance notification => I will be presenting our latest results on adhesion of PSAs on textured surfaces at the "20th Journées d'études sur l'adhésion" (JADH19) in Annecy in december.
+
 - **6/2019** : Update in the "Supervision" section, with the warm welcome to the student Elina Gilbert (from ESPCI) who will be performing a research project on the fatigue of multiple-network elastomers that I will co-supervise with Dr. Gabriel Sanoja and Pr. Costantino Creton.
 
 - **5/2019** : See the "General Audience Media" for a new online article on some of the work I have been involved in at ESPCI with Pr. Matteo Ciccotti.
@@ -20,7 +22,6 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 - **1/2019** : Last minute change of plans, I will be replacing a colleague at the APS March meeting... so, new return to Boston in the beginning of March.
 
-- **11/2018** : my abstract for the 42nd Annual Meeting of the Adhesion Society got accepted, see you in Hilton Head, South Carolina in February 2019!
 
 ### Scientific Vision and Projects
 
