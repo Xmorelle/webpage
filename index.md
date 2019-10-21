@@ -10,6 +10,8 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+- **10/2019** : Seminars serie coming in! I'll have the pleasure to present some of my last research both on the 13th of November during a thematic workshop on Soft Matter Mechanics at SIMM group in Paris, as well as on the 22nd of November where I will be giving an invited talk at the Van der Walls-Zeeman Institute (Institute of Physics) of the University of Amsterdam.
+
 - **9/2019** : Abstract acceptance notification => I will be presenting our latest results on adhesion of PSAs on textured surfaces at the "20th Journées d'études sur l'adhésion" (JADH19) in Annecy in december.
 
 - **6/2019** : Update in the "Supervision" section, with the warm welcome to the student Elina Gilbert (from ESPCI) who will be performing a research project on the fatigue of multiple-network elastomers that I will co-supervise with Dr. Gabriel Sanoja and Pr. Costantino Creton.
@@ -19,8 +21,6 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 - **3/2019** : The confirmation just came in, I got selected for presenting the "CNRS auditions" for a "Chargé de Recherche" position in the beginning of April. Also, a new section was added to this webpage listing the different "Invited talks" given over the last years.
 
 - **2/2019** : Our last paper on how to use anisotropy to design flaw-insensitive hydrogels that resist fatigue crack growth is just out! Have a look at it (see publications section) and thanks again to Ruobing Bai for the resilience in wrapping up this very nice work!
-
-- **1/2019** : Last minute change of plans, I will be replacing a colleague at the APS March meeting... so, new return to Boston in the beginning of March.
 
 
 ### Scientific Vision and Projects
