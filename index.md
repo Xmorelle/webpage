@@ -67,10 +67,10 @@ Five months stay as a visiting master student, including a two-months research p
 
 **2019**
 
--**University of Amsterdam**, Soft Matter Group, Van der Walls-Zeeman Institute (Institute of Physics) - Amsterdam - NED - November 28th:
+- **University of Amsterdam**, Soft Matter Group, Van der Walls-Zeeman Institute (Institute of Physics) - Amsterdam - NED - November 28th:
 _3D Visualization of cavitation process in multiple network elastomers_.
 
--**ESPCI - SIMM lab thematic workshop on Soft Matter Mechanics**, Paris - FRA - November 13th :
+- **ESPCI - SIMM lab thematic workshop on Soft Matter Mechanics**, Paris - FRA - November 13th :
 _3D Visualization of cavitation process in multiple network elastomers_.
 
 - **APS (American Physical Society) March meeting**, Boston (MA) - USA - March 6th : 
