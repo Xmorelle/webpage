@@ -4,11 +4,13 @@
 ### About me
 
 I am an enthousiastic post-doctoral researcher focusing on the mechanics of soft polymer networks.
-I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pardoen at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of Pr. Zhigang Suo at Harvard University in the field of Soft Active Materials for 2 years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with Pr. Costantino Creton and Pr. Matteo Ciccotti.
+I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pardoen at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of Pr. Zhigang Suo at Harvard University in the field of Soft Active Materials for two years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with Pr. Costantino Creton and Pr. Matteo Ciccotti.
 
 To learn more details on my backgroung, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_sept2019.pdf).
 
 ### Recent news
+
+- **02/2020** : Quick return by the alma matter at UCLouvain where I'll have the pleasure to present an invited seminar on my research on [Hydrogels under extreme environment](https://uclouvain.be/en/research-institutes/immc/agenda.html?id=6453) on the 26th of February at 4:15pm in BARB 03.
 
 - **10/2019** : Seminars series coming in! I'll have the pleasure to present some of my last research both on the 13th of November during a thematic workshop on Soft Matter Mechanics at SIMM group in Paris, as well as on the 28th of November where I will be giving an invited talk at the Van der Walls-Zeeman Institute (Institute of Physics) of the University of Amsterdam.
 
@@ -17,10 +19,6 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 - **6/2019** : Update in the "Supervision" section, with the warm welcome to the student Elina Gilbert (from ESPCI) who will be performing a research project on the fatigue of multiple-network elastomers that I will co-supervise with Dr. Gabriel Sanoja and Pr. Costantino Creton.
 
 - **5/2019** : See the "General Audience Media" for a new online article on some of the work I have been involved in at ESPCI with Pr. Matteo Ciccotti.
-
-- **3/2019** : The confirmation just came in, I got selected for presenting the "CNRS auditions" for a "Chargé de Recherche" position in the beginning of April. Also, a new section was added to this webpage listing the different "Invited talks" given over the last years.
-
-- **2/2019** : Our last paper on how to use anisotropy to design flaw-insensitive hydrogels that resist fatigue crack growth is just out! Have a look at it (see publications section) and thanks again to Ruobing Bai for the resilience in wrapping up this very nice work!
 
 
 ### Scientific Vision and Projects
