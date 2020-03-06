@@ -10,6 +10,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+
 - **02/2020** : Quick return by the alma matter at UCLouvain where I'll have the pleasure to present an invited seminar on my research on [Hydrogels under extreme environment](https://uclouvain.be/en/research-institutes/immc/agenda.html?id=6453) on the 26th of February at 4:15pm in BARB 03.
 
 - **10/2019** : Seminars series coming in! I'll have the pleasure to present some of my last research both on the 13th of November during a thematic workshop on Soft Matter Mechanics at SIMM group in Paris, as well as on the 28th of November where I will be giving an invited talk at the Van der Walls-Zeeman Institute (Institute of Physics) of the University of Amsterdam.
@@ -65,7 +66,7 @@ Five months stay as a visiting master student, including a two-months research p
 
 **2020**
 
-- **UCLouvain**, IMAP, Institute of Materials, Mechanics and Civil engineering (iMMC) - Louvain-la-Neuve - BEL - February 26th:
+- **UCLouvain**, IMAP, Institute of Mechanics, Materials and Civil engineering (iMMC) - Louvain-la-Neuve - BEL - February 26th:
 _Tough hydrogels under extreme environment_.
 
 **2019**
@@ -94,12 +95,15 @@ _From mechanical characterization towards physics-based modeling of soft polymer
 * * *
 ### Publications
 
-**2019**
+**2020**
 * * *
 xx. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", **2019**, _under preparation_.
 
 yy. R. Bai, **X. P. Morelle**, J. Wang, Z. Suo, "Rupture and debonding of soft layered materials", **2019**, _under submission to Extreme Mechanics Letters_.
 
+
+**2019**
+* * *
 13. R. Bai, J. Wang, **X. P. Morelle**, Z. Suo, "Flaw-insensitive hydrogels under static and cyclic loads", _Macromolecular Rapid Communications_, **2019**, 1800883. [https://doi.org/10.1002/marc.201800883](https://doi.org/10.1002/marc.201800883)
 
 12. J. Chevalier, **X. P. Morelle**, P. P. Camanho, F. Lani, T. Pardoen, "On a unique fracture mechanism for highly cross-linked epoxy resins", _Journal of Mechanics and Physics of Solids_, vol 122, **2019**, pp.502-519. [https://doi.org/10.1016/j.jmps.2018.09.028](https://doi.org/10.1016/j.jmps.2018.09.028)
