@@ -63,6 +63,11 @@ Five months stay as a visiting master student, including a two-months research p
 * * *
 ### Invited talks
 
+**2020**
+
+- **UCLouvain**, IMAP, Institute of Materials, Mechanics and Civil engineering (iMMC) - Louvain-la-Neuve - BEL - February 26th:
+_Tough hydrogels under extreme environment_.
+
 **2019**
 
 - **University of Amsterdam**, Soft Matter Group, Van der Walls-Zeeman Institute (Institute of Physics) - Amsterdam - NED - November 28th:
