@@ -16,11 +16,11 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 - **10/2019** : Seminars series coming in! I'll have the pleasure to present some of my last research both on the 13th of November during a thematic workshop on Soft Matter Mechanics at _SIMM group_ in Paris, as well as on the 28th of November where I will be giving an invited talk at the Van der Walls-Zeeman Institute (Institute of Physics) of the _University of Amsterdam_.
 
-- **9/2019** : Abstract acceptance notification => I will be presenting our latest results on adhesion of PSAs on textured surfaces at the "20th Journées d'études sur l'adhésion" (JADH19) in Annecy in december.
+- **9/2019** : Abstract acceptance notification => I will be presenting our latest results on adhesion of PSAs on textured surfaces at the "_20th Journées d'études sur l'adhésion_" (JADH19) in Annecy in december.
 
-- **6/2019** : Update in the "Supervision" section, with the warm welcome to the student Elina Gilbert (from ESPCI) who will be performing a research project on the fatigue of multiple-network elastomers that I will co-supervise with Dr. Gabriel Sanoja and Pr. Costantino Creton.
+- **6/2019** : Update in the "**Supervision**" section, with the warm welcome to the student Elina Gilbert (from ESPCI) who will be performing a research project on the fatigue of multiple-network elastomers that I will co-supervise with Dr. Gabriel Sanoja and Pr. Costantino Creton.
 
-- **5/2019** : See the "General Audience Media" for a new online article on some of the work I have been involved in at ESPCI with Pr. Matteo Ciccotti.
+- **5/2019** : See the "**General Audience Media**" for a new online article on some of the work I have been involved in at ESPCI with Pr. Matteo Ciccotti.
 
 
 ### Scientific Vision and Projects
