@@ -4,7 +4,7 @@
 ### About me
 
 I am an enthousiastic post-doctoral researcher focusing on the mechanics of soft polymer networks.
-I have completed a PhD thesis in Materials Science in the group of Pr. Thomas Pardoen at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of Pr. Zhigang Suo at Harvard University in the field of Soft Active Materials for two years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with Pr. Costantino Creton and Pr. Matteo Ciccotti.
+I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_.
 
 To learn more details on my backgroung, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_march2020.pdf).
 
@@ -40,7 +40,7 @@ _Projects : in construction..._
 ```
 # 2017 - 2019 : ESPCI | PSL, Paris, FRANCE 
 ```
-Fundamental research using mechano-chemistry as a tool to study the mechanics and fracture of soft polymer networks, going from adhesives to hydrogels and elastomers. A focus is set on the understanding of the toughening mechanisms occuring in multiple network hydrogels and elastomers through optical analysis of fluorescent molecular markers.
+Fundamental research using mechano-chemistry as a tool to study the mechanics and fracture of soft polymer networks, going from adhesives to hydrogels and elastomers. A focus is set on the understanding of the stress-transfer and fatigue mechanisms occurring in multiple network hydrogels and elastomers through optical analysis of fluorescent molecular markers. The work is performed in SIMM lab in collaboration with Pr. Creton, Pr. Ciccotti & Pr. Barthel.
 
 
 ![Harvard](/pictures/Harvard_logo.png){:height="200px"}
@@ -55,6 +55,7 @@ Research in the field of soft active materials in the group of Pr. Zhigang Suo. 
 ```
 Research in materials science with both experimental and modeling work in the field of mechanics of polymers and polymer-based composites. Development of an original physics-based theory for modelling the meso-scale heterogeneous micro-mechanisms of glassy polymers.
 Collaborations on applied research projects with the aeronautical industry (Safran group, TechSpace Aero, Sonaca), as well as fundamental research with other international groups (KULeuven, Trinity College, IMDEA, Imperial College), were pursued in parallel.
+
 **Dissertation**: "Mechanical Characterization and Physics-Based Modeling of a Highly-Crosslinked Epoxy Resin", _supervised by_ Pr. Thomas Pardoen \& Pr. Christian Bailly.
 
 ![TUe](/pictures/tue-logo.png){:width="200px"}
