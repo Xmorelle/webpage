@@ -12,9 +12,9 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 - **03/2020** : A new page opens up with a fresh start in the city of Lyon (France) where I am joining the IMP lab (Ingénierie des Matériaux Polymères - UMR 5223) at INSA for a short stay to prepare the final stage of the CNRS recruitment process with the auditions planned in early April.
 
-- **02/2020** : Quick return by the alma matter at UCLouvain where I'll have the pleasure to present an invited seminar on my research on [Hydrogels under extreme environment](https://uclouvain.be/en/research-institutes/immc/agenda.html?id=6453) on the 26th of February at 4:15pm in BARB 03.
+- **02/2020** : Quick return by the alma matter at _UCLouvain_ where I'll have the pleasure to present an invited seminar on my research on [Hydrogels under extreme environment](https://uclouvain.be/en/research-institutes/immc/agenda.html?id=6453) on the 26th of February at 4:15pm in BARB 03.
 
-- **10/2019** : Seminars series coming in! I'll have the pleasure to present some of my last research both on the 13th of November during a thematic workshop on Soft Matter Mechanics at SIMM group in Paris, as well as on the 28th of November where I will be giving an invited talk at the Van der Walls-Zeeman Institute (Institute of Physics) of the University of Amsterdam.
+- **10/2019** : Seminars series coming in! I'll have the pleasure to present some of my last research both on the 13th of November during a thematic workshop on Soft Matter Mechanics at _SIMM group_ in Paris, as well as on the 28th of November where I will be giving an invited talk at the Van der Walls-Zeeman Institute (Institute of Physics) of the _University of Amsterdam_.
 
 - **9/2019** : Abstract acceptance notification => I will be presenting our latest results on adhesion of PSAs on textured surfaces at the "20th Journées d'études sur l'adhésion" (JADH19) in Annecy in december.
 
@@ -25,7 +25,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Scientific Vision and Projects
 
-_keywords_ : mechanics and fracture of soft polymer networks, multi-scale characterization approach, micro-mechanical physics-based modeling, design of smart multifunctional devices.
+_keywords_ : mechanics and fracture of polymer networks, multi-scale characterization approach, micro-mechanical physics-based modeling, design of smart multifunctional devices.
 
 A common trait throughout my whole research experience is the strong will of seeking a better molecular understanding of polymer networks deformation and fracture micromechanisms, in order to _in-fine_ establish more clearly the relation between polymer microstructure and their macroscopic properties. Building on the knowledge of this rather theoretical quest, I also envision to tackle more multi-disciplinary and coupled problems through the study and design of soft active materials. The area of soft matter mechanics being extremely vast, it still offers plenty of room for new exciting developments.
 
