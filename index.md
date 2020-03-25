@@ -167,7 +167,7 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Supervision
 
-- **post-graduate level** (2) _not in dissertation commitee_ : mentoring and collaborative work with Jérémy Chevalier (2015-2018) at UCLouvain, and Ruobing Bai (2016-2017) at Harvard University.
+- **post-graduate level** (3) _not in dissertation commitee_ : mentoring and collaborative work with Louis Debertrand (2018-2019) at ESPCI, Jérémy Chevalier (2015-2018) at UCLouvain, and Ruobing Bai (2016-2017) at Harvard University.
 
 - **graduate level** (4) : daily based supervision of master students thesis project (6 months to 1 year) : Elina Gilbert (2019, materials science, ESPCI), Loïc Van Nieuwenhuyse (2014-2015, materials science, UCL), Minh Le Duy (2013-2014, macromolecular nanotechnology, UCL), Jesus Gutierrez Martinez (2012-2013, mechanical engineering, UCL).
 
