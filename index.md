@@ -4,7 +4,7 @@
 ### About me
 
 I am an enthousiastic post-doctoral researcher focusing on the mechanics of soft polymer networks.
-I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. I am now working in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_.
+I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_ on the heterogeneous mechanics of multiple-network elastomers and pressure-sensitive adhesives.
 
 To learn more details on my backgroung, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_march2020.pdf).
 
