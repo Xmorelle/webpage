@@ -10,7 +10,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
-- **03/2020** : A new page opens up with a fresh start in the city of Lyon (France) where I am joining the _IMP lab_ (Ingénierie des Matériaux Polymères - UMR 5223) at _INSA Lyon_ for a short stay to prepare the final stage of the CNRS recruitment process with the auditions planned in early April.
+- **03/2020** : A new page opens up with a fresh start in the city of Lyon (France) where I am joining the _IMP lab_ (Ingénierie des Matériaux Polymères - UMR 5223) at _INSA Lyon_ for a short stay to prepare the final stage of the CNRS recruitment process with the auditions planned in early April, later postponed to early July because of the Covid19 situation.
 
 - **02/2020** : Quick return by the alma matter at _UCLouvain_ where I'll have the pleasure to present an invited seminar on my research on [Hydrogels under extreme environment](https://uclouvain.be/en/research-institutes/immc/agenda.html?id=6453) on the 26th of February at 4:15pm in BARB 03.
 
