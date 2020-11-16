@@ -3,8 +3,8 @@
 
 ### About me
 
-I am an enthousiastic post-doctoral researcher focusing on the mechanics of soft polymer networks.
-I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_.
+I am an enthousiastic post-doctoral researcher focusing on the mechanics of soft and hard polymer networks.
+I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics and fracture of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_. I have now joined the Polymer Materials Engineering Lab (IMP - UMR5223) at INSA-Lyon where I am applying for a permanent CNRS Research Fellow position.
 
 To learn more details on my backgroung, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_march2020.pdf).
 
@@ -32,6 +32,13 @@ _Projects : in construction..._
 * * *
 
 ### Education & Academic achievements
+
+![ESPCI](/pictures/INSA-Lyon&IMP_logo.png){:width="400px"}
+
+```
+# 2020 - now : Laboratoire Ingénierie des Matériaux Polymères (IMP - UMR5223) | INSA de Lyon, Villeurbanne, FRANCE 
+```
+Prospective research on the large strain and fracture behavior of ionic liquid (IL) modified polymer systems. The first step focuses on controlling the mechanical behavior through the topological nano-structuration of a phosphonium-ionic liquid epoxy system, while in second step multi-functional responses will be also considered, taking advantage of IL conductivity and thermal properties. The work is performed in the laboratoire d'Ingénierie des Matériaux Polymères (IMP) in collaboration with S. Livi, Pr. S. Pruvost, J. Bernard, Pr. J. Duchet \& Pr. J.-F. Gérard.
 
 ![ESPCI](/pictures/ESPCI-logo.png){:width="400px"}
 
@@ -97,7 +104,11 @@ _From mechanical characterization towards physics-based modeling of soft polymer
 
 **2020**
 * * *
-xx. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "Visualization of Bond Scission due to Nucleation and Growth of Gas Bubbles in Elastomers", **2020**, _submitted to PNAS and under review_.
+vv. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "Visualization of Bond Scission due to Nucleation and Growth of Gas Bubbles in Elastomers", **2020**, _submitted to PNAS and under review_.
+
+ww. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", **2020**, _submitted to Polymers for "GFP 50th Anniversary" special issue_.
+
+xx. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", **2020**, _submitted to Comptes Rendus Physique for the "Plasticity and Solid State Physics" special issue_.
 
 yy. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Role of Covalent Bond Scission on the Fatigue Crack Propagation of Tough Elastomers", **2020**, _under submission_.
 
