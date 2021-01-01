@@ -11,7 +11,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 ### Recent news
 - **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv and should be officially announced in a couple of days.
 
-- **12/2020** : Update in the "**Professional social media**" section, as I have eventually joined Twitter which has become as a science diffusion and networking platform among my previous and present colleagues.
+- **12/2020** : Update in the "**Professional social media**" section, as I have finally joined Twitter which has become more and more an efficient science diffusion and networking platform among my previous and present colleagues.
 
 - **9/2020** : Update in the "**Supervision**" section, with the warm welcome to Ana-Carolina Fernandez Rodas (from INSA-lyon) who will be performing a research project under my supervision on the nanostructuration of epoxy-ionic liquid polymers with the characterization of their mechanical behavior.
 
