@@ -9,6 +9,8 @@ I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas P
 To learn more details on my backgroung, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_march2020.pdf).
 
 ### Recent news
+- **01/2021** : Our latest paper on the "Visualization of cavitation process in elastomers" via the use of mechanochemistry is now posted on arXiv and should be officially announced in a couple of days.
+
 - **12/2020** : Update in the "**Professional social media**" section, as I have eventually joined Twitter which has become as a science diffusion and networking platform among my previous and present colleagues.
 
 - **9/2020** : Update in the "**Supervision**" section, with the warm welcome to Ana-Carolina Fernandez Rodas (from INSA-lyon) who will be performing a research project under my supervision on the nanostructuration of epoxy-ionic liquid polymers with the characterization of their mechanical behavior.
@@ -16,10 +18,6 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 - **03/2020** : A new page opens up with a fresh start in the city of Lyon (France) where I am joining the _IMP lab_ (Ingénierie des Matériaux Polymères - UMR 5223) at _INSA Lyon_ for a short stay to prepare the final stage of the CNRS recruitment process with the auditions planned in early April, later postponed to early July because of the Covid19 situation.
 
 - **02/2020** : Quick return by the alma matter at _UCLouvain_ where I'll have the pleasure to present an invited seminar on my research on [Hydrogels under extreme environment](https://uclouvain.be/en/research-institutes/immc/agenda.html?id=6453) on the 26th of February at 4:15pm in BARB 03.
-
-- **10/2019** : Seminars series coming in! I'll have the pleasure to present some of my latest research both on the 13th of November during a thematic workshop on Soft Matter Mechanics at _SIMM group_ in Paris, as well as on the 28th of November where I will be giving an invited talk at the Van der Walls-Zeeman Institute (Institute of Physics) of the _University of Amsterdam_.
-
-- **5/2019** : See the "**General Audience Media**" for a new online article on some of the work I have been involved in at ESPCI with Pr. Matteo Ciccotti.
 
 
 ### Scientific Vision and Projects
@@ -103,9 +101,7 @@ _From mechanical characterization towards physics-based modeling of soft polymer
 
 ### Publications
 
-**2020**
-* * *
-vv. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "Visualization of Bond Scission due to Nucleation and Growth of Gas Bubbles in Elastomers", **2020**, _submitted to PNAS and under review_.
+**pre-print works**
 
 ww. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", **2020**, _submitted to Polymers for "GFP 50th Anniversary" special issue_.
 
@@ -114,6 +110,10 @@ xx. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morell
 yy. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Role of Covalent Bond Scission on the Fatigue Crack Propagation of Tough Elastomers", **2020**, _under submission_.
 
 zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", **2020**, _under preparation_.
+
+**2021**
+* * *
+14. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "Visualization of Bond Scission due to Nucleation and Growth of Gas Bubbles in Elastomers", **2020**, _arXiv:3537909_.
 
 **2019**
 * * *
