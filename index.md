@@ -9,6 +9,7 @@ I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas P
 To learn more details on my backgroung, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_march2020.pdf).
 
 ### Recent news
+- **12/2020** : Update in the "**Professional social media**" section, as I have eventually joined Twitter which has become as a science diffusion and networking platform among my previous and present colleagues.
 
 - **9/2020** : Update in the "**Supervision**" section, with the warm welcome to Ana-Carolina Fernandez Rodas (from INSA-lyon) who will be performing a research project under my supervision on the nanostructuration of epoxy-ionic liquid polymers with the characterization of their mechanical behavior.
 
@@ -217,6 +218,7 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Professional social media
 
+- Twitter page : [@xavier_morelle](https://twitter.com/xavier_morelle)
 - Google scholar page : [citations](https://scholar.google.fr/citations?user=ShCxF94AAAAJ&hl=fr)
 - Research gate page : [www.researchgate.net/profile/Xavier_Morelle](https://www.researchgate.net/profile/Xavier_Morelle)
 - Linkedin page : [www.linkedin.com/in/xavier-morelle/](https://www.linkedin.com/in/xavier-morelle/)
