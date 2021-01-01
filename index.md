@@ -9,7 +9,7 @@ I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas P
 To learn more details on my backgroung, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_march2020.pdf).
 
 ### Recent news
-- **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv and should be officially announced in a couple of days.
+- **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv and should be officially announced in a couple of days (in the soft condensed matter category : cond-mat.soft).
 
 - **12/2020** : Update in the "**Professional social media**" section, as I have finally joined Twitter which has become more and more an efficient science diffusion and networking platform among my previous and present colleagues.
 
