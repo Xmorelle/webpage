@@ -107,7 +107,7 @@ ww. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Ja
 
 xx. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", **2021**, _submitted to Comptes Rendus Physique for the "Plasticity and Solid State Physics" special issue_.
 
-yy. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Role of Covalent Bond Scission on the Fatigue Crack Propagation of Tough Elastomers", **2021**, _under submission_.
+yy. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Role of Sacrificial Bond Scission on Durability and Toughness of Unfilled Elastomers", **2021**, _under submission_.
 
 zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", **2021**, _under preparation_.
 
