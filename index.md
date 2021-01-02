@@ -103,13 +103,15 @@ _From mechanical characterization towards physics-based modeling of soft polymer
 
 **pre-print works**
 
-ww. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", **2021**, _submitted to Polymers for "GFP 50th Anniversary" special issue_.
+vv. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", **2021**, _submitted to Polymers for "GFP 50th Anniversary" special issue_.
 
-xx. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", **2021**, _submitted to Comptes Rendus Physique for the "Plasticity and Solid State Physics" special issue_.
+ww. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", **2021**, _submitted to Comptes Rendus Physique for the "Plasticity and Solid State Physics" special issue_.
 
-yy. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Role of Sacrificial Bond Scission on Durability and Toughness of Unfilled Elastomers", **2021**, _under submission_.
+xx. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Role of Sacrificial Bond Scission on Durability and Toughness of Unfilled Elastomers", **2021**, _under submission_.
 
-zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", **2021**, _under preparation_.
+yy. X. Yao, B. Chen, **X. P. Morelle**, Z. Suo, "De-icing blanket based on propylene glycol gel", _under preparation_.
+
+zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", _under preparation_.
 
 **2020**
 * * *
