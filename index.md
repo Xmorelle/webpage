@@ -11,7 +11,9 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 ### Recent news
 - **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv and should be officially announced in a couple of days (in the soft condensed matter category : cond-mat.soft).
 
-- **12/2020** : Update in the "**Professional social media**" section, as I have finally joined Twitter which has become more and more an efficient science diffusion and networking platform among my previous and present colleagues.
+- **12/2020** : Upadte in the "**General audience media**" section, with the recent paper of Johanna Miller of "Physics today" on some of the work I participated to at ESPCI, in particular the thesis of Juliette Slootman under the supervision of Costantino Creton.
+
+- **12/2020** : Update in the "**Professional social media**" section, as I have finally joined Twitter which has become a more and more efficient science diffusion and networking platform among my previous and present colleagues.
 
 - **9/2020** : Update in the "**Supervision**" section, with the warm welcome to Ana-Carolina Fernandez Rodas (from INSA-lyon) who will be performing a research project under my supervision on the nanostructuration of epoxy-ionic liquid polymers with the characterization of their mechanical behavior.
 
@@ -227,6 +229,8 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 - ORCID link : [orcid.org/0000-0001-6508-8945](https://orcid.org/0000-0001-6508-8945)
 
 ### General audience media
+
+- 12/2020 : article of Johanna Miller from _Physics Today_ on the use of mechano-fluorescent molecular probes to study the fracture of elastomers, highlighting the work perform in the group of Costantino Creton these last years and in particular the thesis of Juliette Slootman. [Stretchy molecules rupture far from the crack](https://physicstoday.scitation.org/do/10.1063/PT.6.1.20201222a/full/)
 
 - 05/2019 : Following my talk at the APS March Meeting conference, a journalist (Ryan F. Mandelbaum) from the the American online science journal _Gizmodo_ contacted Pr. Matteo Ciccotti and wrote a nice article explaining some of the motivations and results of our group's work on adhesion of pressure sensitive adhesives. [Scientists Are Stuck on the Mystery of Tape](https://gizmodo.com/scientists-are-stuck-on-the-mystery-of-tape-1835074649)
 
