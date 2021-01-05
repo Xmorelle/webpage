@@ -117,7 +117,7 @@ zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical 
 
 **2020**
 * * *
-14. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "Visualization of Bond Scission due to Nucleation and Growth of Gas Bubbles in Elastomers", **2020**, _arXiv:3537909_.
+14. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "Visualization of Bond Scission due to Nucleation and Growth of Gas Bubbles in Elastomers", **2020**, _[arXiv2101.00709](http://arxiv.org/abs/2101.00709)_.
 
 **2019**
 * * *
