@@ -209,11 +209,15 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Professional and community services
 
+- **Group seminar organizer** for the INSA-Lyon site of the IMP lab (2020-current) - Organization of internal group seminars for exposing the work of PhD studends, post-docs and permanent researchers and promoting exchanges and collaborations between the lab members.
+
+- **Mechanical Testing equipment trainer** in INSA-Lyon site of the IMP lab (2019-current) - Person-in-charge for new training on Uniaxial testing machines (Instron and MTS) for quasi-static, fracture and fatigue loading of polymer-based specimens.
+
 - **Lab visit and science promotion for teenagers** in SIMM lab at ESPCI Paris (2017-2019) - Organization of small lab visit and experimental demonstration for high school students during occasional week-long science camps.
 
 - **Trustee in the board of directors** of Gravelines rowing club (2017-now) - As a trustee, I get involved into the general management, planning and new projects development of Gravelines rowing club. My missions non exhaustively include the organization and participation to international rowing regattas, preparation of the annual general membership meeting, and promotion of the club activities on social networks.
 
-- **Lab safety officer and equipmeng trainer** in Suo Lab at Harvard University (2016-2017) - Emergency lab contact, development of equipment safety procedure, LN2 ordering, chemical inventory and waste disposal coordination. Person-in-charge for new training on Instron testing machine and on the high-voltage amplifier.
+- **Lab safety officer and equipment trainer** in Suo Lab at Harvard University (2016-2017) - Emergency lab contact, development of equipment safety procedure, LN2 ordering, chemical inventory and waste disposal coordination. Person-in-charge for new training on Instron testing machine and on the high-voltage amplifier.
 
 - **Board member of Harvard-MIT Belgian Society** in Boston (2016-2017) - Organizing social networking events and open debates among the belgian community (and more) in the Boston area, in order to promote Belgian scientific, political or economical personalities and achievements.
 
