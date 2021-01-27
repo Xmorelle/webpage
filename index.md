@@ -10,7 +10,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
-- **01/2021** : Conference series coming up! Despite the current worlwide lockdown situation, some conferences have chosen to maintain their 2021 edition through virtual events. Gabriel Sanoja and myself will be thus presenting some of our most recent work on the use of mechanochemistry to study cavitation and fatigue mechanisms in multiple network elastomers both at the _Adhesion Society_ meeting and at the _American Physical Society (APS)_ meeting.
+- **01/2021** : Conference series coming up! Despite the current worlwide lockdown situation, some conferences have chosen to maintain their 2021 edition through virtual events. Gabriel Sanoja and myself will be thus presenting some of our most recent work on the use of mechanochemistry to study cavitation and fatigue mechanisms in multiple network elastomers both at the _Adhesion Society_ meeting (February 22nd to 25th) and at the _American Physical Society (APS)_ meeting (March 15th to 19th).
 
 - **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv. Go give it a look in the soft condensed matter category: _[arXiv 2101.00709](http://arxiv.org/abs/2101.00709)_.
 
