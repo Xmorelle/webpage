@@ -9,6 +9,9 @@ I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas P
 To learn more details on my backgroung, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_january2021.pdf).
 
 ### Recent news
+
+- **01/2021** : Conference series coming up! Despite the current worlwide lockdown situation, some conferences have chosen to maintain their 2021 edition through virtual events. Gabriel Sanoja and myself will be thus presenting some of our most recent work on the use of mechanochemistry to study cavitation and fatigue mechanisms in multiple network elastomers both at the _Adhesion Society_ meeting and at the _American Physical Society (APS)_ meeting.
+
 - **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv and should be officially announced in a couple of days (in the soft condensed matter category : cond-mat.soft).
 
 - **12/2020** : Upadte in the "**General audience media**" section, with the recent paper of Johanna Miller of "Physics today" on some of the work I participated to at ESPCI, in particular the thesis of Juliette Slootman under the supervision of Costantino Creton.
