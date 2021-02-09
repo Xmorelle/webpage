@@ -10,6 +10,8 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+- **02/2021** : Good news for this early february with 2 of our papers accepted for publication (see "**Publications**") with (i) a review of the work performed over the last 10 years in my PhD group on a better understanding of the nanomechanics of polymer-based composites (including both multi-scale characterization and physics-based modeling) under the wise supervision of Pr. Thomas Pardoen, and (ii) a work from my post-doctoral stay in Harvard in collaboration with Pr. Xi Yao on the development of novel anti-icing materials and blankets based on propylene-glycol gels.
+
 - **01/2021** : Conference series coming up! Despite the current worlwide travel-restricted situation, some conferences have chosen to maintain their 2021 edition through virtual events. Gabriel Sanoja and myself will be thus presenting some of our most recent work on the use of mechanochemistry to study cavitation and fatigue mechanisms in multiple network elastomers both at the _Adhesion Society_ meeting (February 22nd to 25th) and at the _American Physical Society (APS)_ meeting (March 15th to 19th).
 
 - **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv. Go give it a look in the soft condensed matter category: _[arXiv 2101.00709](http://arxiv.org/abs/2101.00709)_.
@@ -20,10 +22,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 - **9/2020** : Update in the "**Supervision**" section, with the warm welcome to Ana-Carolina Fernandez Rodas (from INSA-lyon) who will be performing a research project under my supervision on the nanostructuration of epoxy-ionic liquid polymers with the characterization of their mechanical behavior.
 
-- **03/2020** : A new page opens up with a fresh start in the city of Lyon (France) where I am joining the _IMP lab_ (Ingénierie des Matériaux Polymères - UMR 5223) at _INSA Lyon_ for a short stay to prepare the final stage of the CNRS recruitment process with the auditions planned in early April, later postponed to early July because of the Covid19 situation.
-
-- **02/2020** : Quick return by the alma matter at _UCLouvain_ where I'll have the pleasure to present an invited seminar on my research on [Hydrogels under extreme environment](https://uclouvain.be/en/research-institutes/immc/agenda.html?id=6453) on the 26th of February at 4:15pm in BARB 03.
-
+- **03/2020** : A new page opens up with a fresh start in the city of Lyon (France) where I am joining the _IMP lab_ (Ingénierie des Matériaux Polymères - UMR 5223) at _INSA Lyon_.
 
 ### Scientific Vision and Projects
 
@@ -108,15 +107,17 @@ _From mechanical characterization towards physics-based modeling of soft polymer
 
 **pre-print works**
 
-vv. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", **2021**, _accepted in Comptes Rendus Physique for the "Plasticity and Solid State Physics" special issue_.
+xx. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", **2021**, _under revision in Polymers for "GFP 50th Anniversary" special issue_.
 
-ww. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", **2021**, _under revision in Polymers for "GFP 50th Anniversary" special issue_.
-
-xx. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Role of Sacrificial Bond Scission on Durability and Toughness of Unfilled Elastomers", **2021**, _under submission_.
-
-yy. X. Yao, B. Chen, **X. P. Morelle**, Z. Suo, "De-icing blanket based on propylene glycol gel", _submitted to EML_.
+yy. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Role of Sacrificial Bond Scission on Durability and Toughness of Unfilled Elastomers", **2021**, _under submission_.
 
 zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", _under preparation_.
+
+**2021**
+* * *
+16. X. Yao, B. Chen, **X. P. Morelle**, Z. Suo, "Anti-icing propylene glycol materials", **2021**, _accepted for publication in EML_.
+
+15. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", **2021**, _accepted in Comptes Rendus Physique for the "Plasticity and Solid State Physics" special issue_.
 
 **2020**
 * * *
