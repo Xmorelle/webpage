@@ -115,9 +115,9 @@ zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical 
 
 **2021**
 * * *
-16. X. Yao, B. Chen, **X. P. Morelle**, Z. Suo, "Anti-icing propylene glycol materials", **2021**, _accepted for publication in EML_.
+15. X. Yao, B. Chen, **X. P. Morelle**, Z. Suo, "Anti-icing propylene glycol materials",_Extreme Mechanics Letters_, **2021**, vol 44, 101225. [https://doi.org/10.1016/j.eml.2021.101225](https://doi.org/10.1016/j.eml.2021.101225).
 
-15. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", **2021**, _accepted in Comptes Rendus Physique for the "Plasticity and Solid State Physics" special issue_.
+16. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", **2021**, _accepted in Comptes Rendus Physique for the "Plasticity and Solid State Physics" special issue_.
 
 **2020**
 * * *
@@ -126,7 +126,7 @@ zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical 
 **2019**
 * * *
 12. R. Bai, J. Wang, **X. P. Morelle**, Z. Suo, "Flaw-insensitive hydrogels under static and cyclic loads", _Macromolecular Rapid Communications_, **2019**, 1800883. [https://doi.org/10.1002/marc.201800883](https://doi.org/10.1002/marc.201800883)
-
+)
 13. J. Chevalier, **X. P. Morelle**, P. P. Camanho, F. Lani, T. Pardoen, "On a unique fracture mechanism for highly cross-linked epoxy resins", _Journal of Mechanics and Physics of Solids_, vol 122, **2019**, pp.502-519. [https://doi.org/10.1016/j.jmps.2018.09.028](https://doi.org/10.1016/j.jmps.2018.09.028)
 
 **2018**
