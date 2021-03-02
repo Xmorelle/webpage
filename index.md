@@ -111,7 +111,7 @@ _From mechanical characterization towards physics-based modeling of soft polymer
 
 xx. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", **2021**, _under revision in Polymers for "GFP 50th Anniversary" special issue_.
 
-yy. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Role of Sacrificial Bond Scission on Durability and Toughness of Unfilled Elastomers", **2021**, _under submission_.
+yy. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Chain Scission", **2021**, _under submission_, pre-print available on [ChemRxiv](https://chemrxiv.org/s/5130169c1b170ad59bbd).
 
 zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", _under preparation_.
 
