@@ -10,13 +10,15 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+- **02/2021** : Another one of our work making use of mechanochemistry (through molecular damage probes) to better understand the fracture mechanisms in multiple network elastomers is now posted in ChemRxiv => go give it a look to better apprehend the intrinsic challenge and differences to improve fatigue resistance vs fracture toughness! _[Why is Mechanical Fatigue Different from Toughness in Elastomers?](https://chemrxiv.org/s/5130169c1b170ad59bbd)_
+
 - **02/2021** : Good news for this early february with 2 of our papers accepted for publication (see "**Publications**") with (i) a review of the work performed over the last 10 years in my PhD group on a better understanding of the nanomechanics of polymer-based composites (including both multi-scale characterization and physics-based modeling) under the wise supervision of Pr. Thomas Pardoen, and (ii) a work from my post-doctoral stay in Harvard in collaboration with Pr. Xi Yao on the development of novel anti-icing materials and blankets based on propylene-glycol gels.
 
 - **01/2021** : Conference series coming up! Despite the current worlwide travel-restricted situation, some conferences have chosen to maintain their 2021 edition through virtual events. Gabriel Sanoja and myself will be thus presenting some of our most recent work on the use of mechanochemistry to study cavitation and fatigue mechanisms in multiple network elastomers both at the _Adhesion Society_ meeting (February 22nd to 25th) and at the _American Physical Society (APS)_ meeting (March 15th to 19th).
 
 - **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv. Go give it a look in the soft condensed matter category: _[arXiv 2101.00709](http://arxiv.org/abs/2101.00709)_.
 
-- **12/2020** : Upadte in the "**General audience media**" section, with the recent paper of Johanna Miller of "Physics today" on some of the work I participated to at ESPCI, in particular the thesis of Juliette Slootman under the supervision of Costantino Creton.
+- **12/2020** : Update in the "**General audience media**" section, with the recent paper of Johanna Miller of "Physics today" on some of the work I participated to at ESPCI, in particular the thesis of Juliette Slootman under the supervision of Costantino Creton.
 
 - **12/2020** : Update in the "**Professional social media**" section, as I have finally joined Twitter which has become a more and more efficient science diffusion and networking platform among my previous and present colleagues.
 
