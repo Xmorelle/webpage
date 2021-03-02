@@ -10,9 +10,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
-- **02/2021** : Another one of our work making use of mechanochemistry (through molecular damage probes) to better understand the fracture mechanisms in multiple network elastomers is now posted in ChemRxiv => go give it a look to better apprehend the intrinsic challenge and differences to improve fatigue resistance vs fracture toughness! 
-
-_[Why is Mechanical Fatigue Different from Toughness in Elastomers?](https://chemrxiv.org/s/5130169c1b170ad59bbd)_
+- **02/2021** : Another one of our work making use of mechanochemistry (through molecular damage probes) to better understand the fracture mechanisms in multiple network elastomers is now posted in ChemRxiv => go give it a look to better apprehend the intrinsic challenge and differences to improve fatigue resistance vs fracture toughness!                        _[Why is Mechanical Fatigue Different from Toughness in Elastomers?](https://chemrxiv.org/s/5130169c1b170ad59bbd)_
 
 - **02/2021** : Good news for this early february with 2 of our papers accepted for publication (see "**Publications**") with (i) a review of the work performed over the last 10 years in my PhD group on a better understanding of the nanomechanics of polymer-based composites (including both multi-scale characterization and physics-based modeling) under the wise supervision of Pr. Thomas Pardoen, and (ii) a work from my post-doctoral stay in Harvard in collaboration with Pr. Xi Yao on the development of novel anti-icing materials and blankets based on propylene-glycol gels.
 
