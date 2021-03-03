@@ -16,7 +16,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 - **01/2021** : Conference series coming up! Despite the current worlwide travel-restricted situation, some conferences have chosen to maintain their 2021 edition through virtual events. Gabriel Sanoja and myself will be thus presenting some of our most recent work on the use of mechanochemistry to study cavitation and fatigue mechanisms in multiple network elastomers both at the _Adhesion Society_ meeting (February 22nd to 25th) and at the _American Physical Society (APS)_ meeting (March 15th to 19th).
 
-- **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv. Go give it a look in the soft condensed matter category: _[arXiv 2101.00709](http://arxiv.org/abs/2101.00709)_.
+- **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv. Go give it a look in the soft condensed matter category: _[3D Fluorescent Mapping of Invisible Molecular Damage after Cavitation in Hydrogen Exposed Elastomers](http://arxiv.org/abs/2101.00709)_.
 
 - **12/2020** : Update in the "**General audience media**" section, with the recent paper of Johanna Miller of "Physics today" on some of the work I participated to at ESPCI, in particular the thesis of Juliette Slootman under the supervision of Costantino Creton.
 
@@ -123,7 +123,7 @@ zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical 
 
 **2020**
 * * *
-14. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "Visualization of Bond Scission due to Nucleation and Growth of Gas Bubbles in Elastomers", **2020**, _[arXiv 2101.00709](http://arxiv.org/abs/2101.00709)_.
+14. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "3D Fluorescent Mapping of Invisible Molecular Damage after Cavitation in Hydrogen Exposed Elastomers", **2020**, _[arXiv 2101.00709](http://arxiv.org/abs/2101.00709v2)_.
 
 **2019**
 * * *
@@ -233,7 +233,7 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 ### Professional social media
 
 - Twitter page : [@xavier_morelle](https://twitter.com/xavier_morelle)
-- Google scholar page : [citations](https://scholar.google.fr/citations?user=ShCxF94AAAAJ&hl=fr)
+- Google scholar page : [publications list with citations](https://scholar.google.fr/citations?user=ShCxF94AAAAJ&hl=fr)
 - Research gate page : [www.researchgate.net/profile/Xavier_Morelle](https://www.researchgate.net/profile/Xavier_Morelle)
 - Linkedin page : [www.linkedin.com/in/xavier-morelle/](https://www.linkedin.com/in/xavier-morelle/)
 - ORCID link : [orcid.org/0000-0001-6508-8945](https://orcid.org/0000-0001-6508-8945)
