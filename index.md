@@ -80,6 +80,10 @@ Five months stay as a visiting master student, including a two-months research p
 * * *
 ### Invited talks
 
+**2021**
+
+- **UMass**, Polymer Science and Engineering, Crosby research group - virtual webinar - March 24th: _Mechanochemistry as a tool to study cavitation in multiple network elastomers_.
+
 **2020**
 
 - **UCLouvain**, IMAP, Institute of Mechanics, Materials and Civil engineering (iMMC) - Louvain-la-Neuve - BEL - February 26th:
