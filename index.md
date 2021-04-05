@@ -12,7 +12,7 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 - **04/2021** : Great start of the month, with no April fool prank, but instead two of our latest papers finally published! Our first [cavitation work](https://doi.org/10.1039/D1SM00325A) with ESPCI is thus accepted for publication in _Soft Matter_, while our newest work on [epoxy network reinforced with ionic-liquid grafted POSS](https://doi.org/10.1016/j.polymer.2021.123721) with the IMP lab (through Houssém Chabane PhD) just got out in _Polymer_ => go have a look at the **Publications** section for their detailed reference and links!
 
-- **03/2021** : I had the pleasure (following our discussion at this year Adhesion Society Meeting) to perform an **online invited talk** with the _Crosby research group_ (UMass, Amherst) and related co-workers on the cavitation thematic on March 24th => Thanks again to Al for the invitation, we are definitely looking forward pushing further some of our discusion and why not some possible collaborations in the future!
+- **03/2021** : I had the pleasure (following our discussion at this year Adhesion Society Meeting) to perform an online **invited talk** with the _Crosby research group_ (UMass, Amherst) and related co-workers on the cavitation thematic on March 24th => Thanks again to Al for the invitation, we are definitely looking forward pushing further some of our discusion and why not some possible collaborations in the future!
 
 - **03/2021** : Congratulations to Ana-Carolina Fernandez-Rodas who just finished her master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours Carolina and starting with your internship at the CEA!
 
