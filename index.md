@@ -131,7 +131,7 @@ yy. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical 
 
 16. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", _Polymer_ for "GFP 50th Anniversary" special issue, **2021**. [https://doi.org/10.1016/j.polymer.2021.123721](https://doi.org/10.1016/j.polymer.2021.123721)
 
-17. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "3D Fluorescent Mapping of Invisible Molecular Damage after Cavitation in Hydrogen Exposed Elastomers",_Soft Matter_, online **2021**. [https://doi.org/10.1039/D1SM00325A](https://doi.org/10.1039/D1SM00325A)
+17. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "3D Fluorescent Mapping of Invisible Molecular Damage after Cavitation in Hydrogen Exposed Elastomers", _Soft Matter_, **2021**. [https://doi.org/10.1039/D1SM00325A](https://doi.org/10.1039/D1SM00325A)
 
 **2019**
 * * *
