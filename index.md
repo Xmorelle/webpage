@@ -10,6 +10,8 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+- **04/2021** : Great start of the month, with no April fool prank, but instead two of our latest papers finally published! Our first [cavitation work](https://doi.org/10.1039/D1SM00325A) with ESPCI is thus accepted for publication in _Soft Matter_, while our newest work on [epoxy network reinforced with ionic-liquid grafted POSS](https://doi.org/10.1016/j.polymer.2021.123721) with the IMP lab (through Houssém Chabane PhD) just got out in _Polymer_ => go have a look at the **Publications** section for their detailed reference and links!
+
 - **03/2021** : Congratulations to Ana-Carolina Fernandez-Rodas who just finished her master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours Carolina and starting with your internship at the CEA!
 
 - **02/2021** : Another one of our work making use of mechanochemistry to better understand the fracture mechanisms in multiple network elastomers is now posted in ChemRxiv => go give it a look to better apprehend the intrinsic challenge and differences to improve fatigue resistance vs fracture toughness!                        _[Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Scission](https://chemrxiv.org/s/5130169c1b170ad59bbd)_
@@ -110,22 +112,20 @@ _From mechanical characterization towards physics-based modeling of soft polymer
 ### Publications
 
 **pre-print works**
+* * *
+xx. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Chain Scission", **2021**, _under submission_, pre-print available on [ChemRxiv](https://chemrxiv.org/s/5130169c1b170ad59bbd).
 
-xx. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", **2021**, _under revision in Polymers for "GFP 50th Anniversary" special issue_.
-
-yy. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Chain Scission", **2021**, _under submission_, pre-print available on [ChemRxiv](https://chemrxiv.org/s/5130169c1b170ad59bbd).
-
-zz. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", _under preparation_.
+yy. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", _under preparation_.
 
 **2021**
 * * *
-15. X. Yao, B. Chen, **X. P. Morelle**, Z. Suo, "Anti-icing propylene glycol materials",_Extreme Mechanics Letters_, **2021**, vol 44, 101225. [https://doi.org/10.1016/j.eml.2021.101225](https://doi.org/10.1016/j.eml.2021.101225).
+14. X. Yao, B. Chen, **X. P. Morelle**, Z. Suo, "Anti-icing propylene glycol materials",_Extreme Mechanics Letters_, **2021**, vol 44, 101225. [https://doi.org/10.1016/j.eml.2021.101225](https://doi.org/10.1016/j.eml.2021.101225).
 
-16. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", **2021**, _accepted in Comptes Rendus Physique for the "Plasticity and Solid State Physics" special issue_.
+15. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", _Comptes Rendus de Physique_,for the "Plasticity and Solid State Physics" special issue, **2021**.[doi:10.5802/crphys.56](https://comptes-rendus.academie-sciences.fr/physique/item/CRPHYS_2021__22_S3_A13_0/)
 
-**2020**
-* * *
-14. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "3D Fluorescent Mapping of Invisible Molecular Damage after Cavitation in Hydrogen Exposed Elastomers", **2020**, _[arXiv 2101.00709](http://arxiv.org/abs/2101.00709v2)_.
+16. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", _Polymer_ for "GFP 50th Anniversary" special issue, **2021**. [https://doi.org/10.1016/j.polymer.2021.123721](https://doi.org/10.1016/j.polymer.2021.123721)
+
+17. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "3D Fluorescent Mapping of Invisible Molecular Damage after Cavitation in Hydrogen Exposed Elastomers",_Soft Matter_, online **2021**. [https://doi.org/10.1039/D1SM00325A](https://doi.org/10.1039/D1SM00325A)
 
 **2019**
 * * *
