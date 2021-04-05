@@ -12,6 +12,8 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 - **04/2021** : Great start of the month, with no April fool prank, but instead two of our latest papers finally published! Our first [cavitation work](https://doi.org/10.1039/D1SM00325A) with ESPCI is thus accepted for publication in _Soft Matter_, while our newest work on [epoxy network reinforced with ionic-liquid grafted POSS](https://doi.org/10.1016/j.polymer.2021.123721) with the IMP lab (through Houssém Chabane PhD) just got out in _Polymer_ => go have a look at the **Publications** section for their detailed reference and links!
 
+- **03/2021** : I had the pleasure (following our discussion at this year Adhesion Society Meeting) to perform an _online invited talk_ with the **Crosby research group** (UMass, Amherst) and related co-workers on the cavitation thematic on March 24th => Thanks again to Al for the invitation, we are definitely looking forward pushing further some of our discusion and why not some possible collaborations in the future!
+
 - **03/2021** : Congratulations to Ana-Carolina Fernandez-Rodas who just finished her master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours Carolina and starting with your internship at the CEA!
 
 - **02/2021** : Another one of our work making use of mechanochemistry to better understand the fracture mechanisms in multiple network elastomers is now posted in ChemRxiv => go give it a look to better apprehend the intrinsic challenge and differences to improve fatigue resistance vs fracture toughness!                        _[Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Scission](https://chemrxiv.org/s/5130169c1b170ad59bbd)_
@@ -82,7 +84,7 @@ Five months stay as a visiting master student, including a two-months research p
 
 **2021**
 
-- **UMass**, Polymer Science and Engineering, Crosby research group - virtual webinar - March 24th: _Mechanochemistry as a tool to study cavitation in multiple network elastomers_.
+- **UMass**, Polymer Science and Engineering, Crosby research group - virtual webinar (Amherst, MA, USA) - March 24th: _Mechanochemistry as a tool to study cavitation in multiple network elastomers_.
 
 **2020**
 
