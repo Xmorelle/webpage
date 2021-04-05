@@ -24,13 +24,6 @@ To learn more details on my backgroung, have a look at my [CV](/DownloadableFile
 
 - **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv. Go give it a look in the soft condensed matter category: _[3D Fluorescent Mapping of Invisible Molecular Damage after Cavitation in Hydrogen Exposed Elastomers](http://arxiv.org/abs/2101.00709)_.
 
-- **12/2020** : Update in the "**General audience media**" section, with the recent paper of Johanna Miller of "Physics today" on some of the work I participated to at ESPCI, in particular the thesis of Juliette Slootman under the supervision of Costantino Creton.
-
-- **12/2020** : Update in the "**Professional social media**" section, as I have finally joined Twitter which has become a more and more efficient science diffusion and networking platform among my previous and present colleagues.
-
-- **9/2020** : Update in the "**Supervision**" section, with the warm welcome to Ana-Carolina Fernandez Rodas (from INSA-lyon) who will be performing a research project under my supervision on the nanostructuration of epoxy-ionic liquid polymers with the characterization of their mechanical behavior.
-
-- **03/2020** : A new page opens up with a fresh start in the city of Lyon (France) where I am joining the _IMP lab_ (Ingénierie des Matériaux Polymères - UMR 5223) at _INSA Lyon_.
 
 ### Scientific Vision and Projects
 
