@@ -10,6 +10,10 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+- **08/2021** : With the end of holidays comes the start of the school year but also the return of conferences! For this fall, I will have the pleasure to physically attend the **DEPOS conference** (Deformation of Solid Polymers) in Mandelieu-La Napoule where I'll be presenting some of my most recent work on _ionic-liquid modified epoxys_ and where my dear collaborator Sylvie Castagnet will be presenting a _Keynote_ on some of our shared work on the _cavitation of elastomers_. I will then also have the pleasure to present an **invited Keynote** at the **EURADH 2021 virtual meeting** (European Adhesion Conference) on the _role of damage by sacrificial bonds on the fatigue and toughness behavior of multiple network elastomers_.
+
+- **07/2021** : The official announcement finally came in! => I succesfully obtained a **permanent CNRS research fellow position** ("Chargé de recherche") and I will thus start as a Research Associate inside the IMP lab (UMR n°5223) at INSA-Lyon on October 1st. 
+
 - **04/2021** : Great start of the month, with no April fool prank, but instead two of our latest papers finally published! Our first [cavitation work](https://doi.org/10.1039/D1SM00325A) with ESPCI is thus accepted for publication in _Soft Matter_, while our newest work on [epoxy network reinforced with ionic-liquid grafted POSS](https://doi.org/10.1016/j.polymer.2021.123721) with the IMP lab (through Houssém Chabane PhD) just got out in _Polymer_ => go have a look at the **Publications** section for their detailed reference and links!
 
 - **03/2021** : I had the pleasure (following our discussion at this year Adhesion Society Meeting) to perform an online **invited talk** with the _Crosby research group_ (UMass, Amherst) and related co-workers on the cavitation thematic on March 24th => Thanks again to Al for the invitation, we are definitely looking forward pushing further some of our discusion and why not some possible collaborations in the future!
