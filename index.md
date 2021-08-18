@@ -11,7 +11,6 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 ### Recent news
 
 - **08/2021** : With the end of holidays comes the start of the school year but also the return of conferences! 
-
 For this fall, I will have the pleasure to physically attend the **DEPOS conference** (Deformation of Solid Polymers) in Mandelieu-La Napoule where I'll be presenting some of my most recent work on _ionic-liquid modified epoxys_ and where my dear collaborator Sylvie Castagnet will be presenting a _Keynote_ on some of our shared work on the _cavitation of elastomers_. I will then also have the pleasure to present an **invited Keynote** at the **EURADH 2021 virtual meeting** (European Adhesion Conference) on the _role of damage by sacrificial bonds on the fatigue and toughness behavior of multiple network elastomers_.
 
 - **07/2021** : The official announcement finally came in! => I succesfully obtained a **permanent CNRS research fellow position** ("Chargé de recherche") and I will thus start as a Research Associate inside the IMP lab (UMR n°5223) at INSA-Lyon on October 1st. 
