@@ -3,8 +3,8 @@
 
 ### About me
 
-I am an enthousiastic materials science researcher focusing on the mechanics of soft and hard polymer networks.
-I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics and fracture of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_. I have now joined the Polymer Materials Engineering Lab (IMP - UMR5223) at INSA-Lyon where I have recently obtained a permanent CNRS Research Fellow position.
+I am an enthousiastic materials science researcher focusing on the mechanics of soft and hard polymer networks, and more specifically how heterogeneous architectures can impact and potentially improve their mechanical and physical response.
+I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics and fracture of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_. I have now joined the Polymer Materials Engineering Lab (IMP - UMR5223) at INSA-Lyon where I have recently obtained a permanent CNRS Research Associate position.
 
 To learn more details on my background, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_january2021.pdf).
 
@@ -81,6 +81,8 @@ Five months stay as a visiting master student, including a two-months research p
 
 **2021**
 
+- **EURADH 2021 Virtual meeting**, keynote session - FRANCE - October 12th : _Role of damage by sacrificial bonds: Intrinsic differences between fatigue and toughness mechanisms in multiple network elastomers_.
+
 - **UMass**, Polymer Science and Engineering, Crosby research group - virtual webinar (Amherst, MA, USA) - March 24th: _Mechanochemistry as a tool to study cavitation in multiple network elastomers_.
 
 **2020**
@@ -116,12 +118,14 @@ _From mechanical characterization towards physics-based modeling of soft polymer
 
 **pre-print works**
 * * *
-xx. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Chain Scission", **2021**, _under submission_, pre-print available on [ChemRxiv](https://chemrxiv.org/s/5130169c1b170ad59bbd).
+xx. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", _under preparation_.
 
-yy. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", _under preparation_.
+yy. R. Bai, **X. P. Morelle**, J. Wang, Z. Suo, "Rupture and debonding of soft layered materials", _under submission_.
 
 **2021**
 * * *
+15.  G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Chain Scission", **2021**, _accepted in Science Advances_, pre-print available on [ChemRxiv](https://chemrxiv.org/s/5130169c1b170ad59bbd).
+
 14. X. Yao, B. Chen, **X. P. Morelle**, Z. Suo, "Anti-icing propylene glycol materials",_Extreme Mechanics Letters_, **2021**, vol 44, 101225. [https://doi.org/10.1016/j.eml.2021.101225](https://doi.org/10.1016/j.eml.2021.101225).
 
 15. T. Pardoen, N. Klavzer, S. Gayot, F. Van Loock, J. Chevalier, **X. P. Morelle**, V. Destoop, F. Lani, P. Camanho, L. Brassart, B. Nysten, C. Bailly, "Nanomechanics serving polymer-based composite research", _Comptes Rendus de Physique_,for the "Plasticity and Solid State Physics" special issue, **2021**.[doi:10.5802/crphys.56](https://comptes-rendus.academie-sciences.fr/physique/item/CRPHYS_2021__22_S3_A13_0/)
@@ -202,6 +206,7 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 * * *
 
 ### Awards & Fellowships
+- **CNRS competition for the grade of Chargé de recherche** (section 11) - Admission to the CNRS with a permanent research associate position
 - **Qualification Maître de Conférences** - aptitude certification to be an engineering professor in France (2018-2022)
 - **WBI World Excellence Fellowship**, provided by Wallonie-Bruxelles International (2017-2019)
 - **2nd Best Scientific Picture** at 2018 PC-Focus day, organized by ESPCI Paris (2018)
@@ -217,7 +222,7 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Professional and community services
 
-- **Group seminar organizer** for the INSA-Lyon site of the IMP lab (2020-current) - Organization of internal group seminars for exposing the work of PhD studends, post-docs and permanent researchers and promoting exchanges and collaborations between the lab members.
+- **Group seminar organizer** for the INSA-Lyon site of the IMP lab (2020-current) - Organization of internal group seminars for exposing the work of PhD studends, post-docs and permanent researchers, in order to promote exchanges and collaborations between lab members.
 
 - **Mechanical Testing equipment trainer** in INSA-Lyon site of the IMP lab (2019-current) - Person-in-charge for new training on Uniaxial testing machines (Instron and MTS) for quasi-static, fracture and fatigue loading of polymer-based specimens.
 
