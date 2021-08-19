@@ -7,14 +7,14 @@ I am an enthousiastic materials science researcher focusing on the mechanics of 
 
 I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics and fracture of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_. I have now joined the Polymer Materials Engineering Lab (IMP - UMR5223) at INSA-Lyon where I have recently obtained a permanent CNRS Research Associate position.
 
-To learn more details on my background, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_january2021.pdf).
+To learn more details on my background, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_sept2021.pdf).
 
 ### Recent news
 
 - **08/2021** : With holidays coming to an end, it is time to go back to school but also to conferences!                                                              
-For this fall, I will have the pleasure to physically attend the **DEPOS conference** (Deformation of Solid Polymers) in Mandelieu-La Napoule where I'll be presenting some of my most recent work on _ionic-liquid modified epoxys_ and where my dear collaborator Sylvie Castagnet will be presenting a _Keynote_ on some of our shared work on the _cavitation of elastomers_. I will then also have the pleasure to present an **invited Keynote** at the **EURADH 2021 virtual meeting** (European Adhesion Conference) on the _role of damage by sacrificial bonds on the fatigue and toughness behavior of multiple network elastomers_.
+For this fall, I will have the pleasure to physically attend the **DEPOS conference** (Deformation of Solid Polymers) in Mandelieu-La Napoule where I'll be presenting some of my most recent work on _ionic liquid modified epoxys_ and where my dear collaborator Sylvie Castagnet will be presenting a _Keynote_ on some of our shared work on the _cavitation of elastomers_. I will then also have the pleasure to present an **invited Keynote** at the **EURADH 2021 virtual meeting** (European Adhesion Conference) on the _role of damage by sacrificial bonds on the fatigue and toughness behavior of multiple network elastomers_.
 
-- **07/2021** : The official announcement finally came in! => I succesfully obtained a **permanent CNRS research fellow position** ("Chargé de recherche") and I will thus start as a Research Associate inside the IMP lab (UMR n°5223) at INSA-Lyon on October 1st. 
+- **07/2021** : The official announcement finally came in! => I succesfully obtained a **permanent CNRS research fellow position** ("Chargé de recherche") and I will thus start as a Research Associate inside the IMP lab (UMR n°5223) at INSA-Lyon on October 1st. Truly happy to start this brand new chapter of my academic journey!
 
 - **04/2021** : Great start of the month, with no April fool prank, but instead two of our latest papers finally published! Our first [cavitation work](https://doi.org/10.1039/D1SM00325A) with ESPCI is thus accepted for publication in _Soft Matter_, while our newest work on [epoxy network reinforced with ionic-liquid grafted POSS](https://doi.org/10.1016/j.polymer.2021.123721) with the IMP lab (through Houssém Chabane PhD) just got out in _Polymer_ => go have a look at the **Publications** section for their detailed reference and links!
 
