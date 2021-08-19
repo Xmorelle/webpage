@@ -83,7 +83,7 @@ Five months stay as a visiting master student, including a two-months research p
 
 **2021**
 
-- **EURADH 2021 Virtual meeting**, keynote session - FRANCE - October 12th : _Role of damage by sacrificial bonds: Intrinsic differences between fatigue and toughness mechanisms in multiple network elastomers_.
+- **EURADH 2021 Virtual meeting**, keynote session - FRA - October 12th : _Role of damage by sacrificial bonds: Intrinsic differences between fatigue and toughness mechanisms in multiple network elastomers_.
 
 - **UMass**, Polymer Science and Engineering, Crosby research group - virtual webinar (Amherst, MA, USA) - March 24th: _Mechanochemistry as a tool to study cavitation in multiple network elastomers_.
 
