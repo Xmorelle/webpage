@@ -33,7 +33,7 @@ For this fall, I will have the pleasure to physically attend the **DEPOS confere
 
 ### Scientific Vision and Projects
 
-_keywords_ : mechanics and fracture of polymer networks, multi-scale characterization approach, micro-mechanical physics-based modeling, design of smart multifunctional devices.
+_keywords_ : mechanics and fracture of polymer networks, multi-scale characterization, micro-mechanical modeling, design of smart active materials.
 
 A common trait throughout my whole research experience is the strong will of seeking a better molecular understanding of polymer networks deformation and fracture micromechanisms, in order to _in-fine_ establish more clearly the relation between polymer microstructure and their macroscopic properties. Building on the knowledge of this rather theoretical quest, I also envision to tackle more multi-disciplinary and coupled problems through the study and design of soft active materials. The area of soft matter mechanics being extremely vast, it still offers plenty of room for new exciting developments.
 
@@ -112,7 +112,7 @@ _Macroscopic viscoplastic behavior of thermosets - RTM6 as a case study_.
 **2018** 
 
 - **INSA Lyon/ IMP Lab**, Lyon - FRA - October 2nd : 
-_From mechanical characterization towards physics-based modeling of soft polymer networks : from epoxy resins to hydrogels_.
+_Mechanical characterization towards physics-based modeling of soft polymer networks : from epoxy resins to hydrogels_.
 
 * * *
 
@@ -208,7 +208,7 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 * * *
 
 ### Awards & Fellowships
-- **CNRS competition for the grade of Chargé de recherche** (section 11) - Admission to the CNRS with a permanent research associate position
+- **CNRS competition for the grade of Chargé de recherche** (section 11) - Admission to the CNRS with a permanent Research Associate position
 - **Qualification Maître de Conférences** - aptitude certification to be an engineering professor in France (2018-2022)
 - **WBI World Excellence Fellowship**, provided by Wallonie-Bruxelles International (2017-2019)
 - **2nd Best Scientific Picture** at 2018 PC-Focus day, organized by ESPCI Paris (2018)
