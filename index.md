@@ -11,6 +11,17 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+- **06/2022** : Congrats to Loup Mambré who succesfully secured his funding for a ministry-funded (MESR) PhD after a well-prepared and executed oral defense at the Ecole Doctorale 34 of Lyon! => Enjoy some well-deserved holidays Loup before coming back in the fall to start working on ionic-liquid modified epoxy networks! 
+
+- **05/2022** : Welcome to Emmanuel Fabing who will be performing an internship studying the mechanical response of multi-nanolayers made by co-extrusion, co-supervised with my colleagues Pr. Khalid Lamnawar and Pr. Sébastien Pruvost.
+
+- **04/2022** : Conference series coming up! I will have the pleasure to present some of my previous work first at the European Mechanics of Materials Conference (EMMC18) in Oxford and then move to the Rolduc Abbey in the Netherlands to attend for my first time to the very famous DYFP (Deformation Yield and Fracture of Polymers) conference. Looking forward to these events to catch up with old colleagues and friends from all over Europe.
+
+- **03/2022** : Congratulations to both Noémie Maamouri and Joanna Baudino who just finished their master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours starting with your industry internship!
+While Noemie worked on a fundamental research project to better apprehend the molecular architercture of Room Temperature Vulcanization (RTV) silicon elastomers and how to make use of it to improve its mechanical properties, Joanna performed an applied research project in collaboration with Solvay in order to toughen epoxy network with organic fillers.
+
+- **10/2021** : Great news to start the academic year as we succesfully obtained a BQR (Bonus Qualité Recherche) funding for 4 master students over 2 years with my colleagues Pr. Khalid Lamnawar (from IMP lab as well) and Nawfal Blal (from LamCos lab).
+
 - **08/2021** : With holidays coming to an end, it is time to go back to school but also to conferences!                                                              
 For this fall, I will have the pleasure to physically attend the **DEPOS conference** (Deformation of Solid Polymers) in Mandelieu-La Napoule where I'll be presenting some of my most recent work on _ionic liquid modified epoxys_ and where my dear collaborator Sylvie Castagnet will be presenting a _Keynote_ on some of our shared work on the _cavitation of elastomers_. I will then also have the pleasure to present an **invited Keynote** at the **EURADH 2021 virtual meeting** (European Adhesion Conference) on the _role of damage by sacrificial bonds on the fatigue and toughness behavior of multiple network elastomers_.
 
@@ -18,17 +29,9 @@ For this fall, I will have the pleasure to physically attend the **DEPOS confere
 
 - **04/2021** : Great start of the month, with no April fool prank, but instead two of our latest papers finally published! Our first [cavitation work](https://doi.org/10.1039/D1SM00325A) with ESPCI is thus accepted for publication in _Soft Matter_, while our newest work on [epoxy network reinforced with ionic-liquid grafted POSS](https://doi.org/10.1016/j.polymer.2021.123721) with the IMP lab (through Houssém Chabane PhD) just got out in _Polymer_ => go have a look at the **Publications** section for their detailed reference and links!
 
-- **03/2021** : I had the pleasure (following our discussion at this year Adhesion Society Meeting) to perform an online **invited talk** with the _Crosby research group_ (UMass, Amherst) and related co-workers on the cavitation thematic on March 24th => Thanks again to Al for the invitation, we are definitely looking forward pushing further some of our discusion and why not some possible collaborations in the future!
-
-- **03/2021** : Congratulations to Ana-Carolina Fernandez-Rodas who just finished her master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours Carolina and starting with your internship at the CEA!
-
 - **02/2021** : Another one of our work making use of mechanochemistry to better understand the fracture mechanisms in multiple network elastomers is now posted in ChemRxiv => go give it a look to better apprehend the intrinsic challenge and differences to improve fatigue resistance vs fracture toughness!                        _[Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Scission](https://chemrxiv.org/s/5130169c1b170ad59bbd)_
 
 - **02/2021** : Good news for this early february with 2 of our papers accepted for publication (see "**Publications**") with (i) a review of the work performed over the last 10 years in my PhD group on a better understanding of the nanomechanics of polymer-based composites (including both multi-scale characterization and physics-based modeling) under the wise supervision of Pr. Thomas Pardoen, and (ii) a work from my post-doctoral stay in Harvard in collaboration with Pr. Xi Yao on the development of novel anti-icing materials and blankets based on propylene-glycol gels.
-
-- **01/2021** : Conference series coming up! Despite the current worlwide travel-restricted situation, some conferences have chosen to maintain their 2021 edition through virtual events. Gabriel Sanoja and myself will be thus presenting some of our most recent work on the use of mechanochemistry to study cavitation and fatigue mechanisms in multiple network elastomers both at the _Adhesion Society_ meeting (February 22nd to 25th) and at the _American Physical Society (APS)_ meeting (March 15th to 19th).
-
-- **01/2021** : Our latest paper on the _visualization of cavitation process in elastomers via the use of mechanochemistry_ is now posted on arXiv. Go give it a look in the soft condensed matter category: _[3D Fluorescent Mapping of Invisible Molecular Damage after Cavitation in Hydrogen Exposed Elastomers](http://arxiv.org/abs/2101.00709)_.
 
 
 ### Scientific Vision and Projects
@@ -48,7 +51,7 @@ _Projects : in construction..._
 ```
 # 2020 - now : Laboratoire Ingénierie des Matériaux Polymères (IMP - UMR5223) | INSA de Lyon, Villeurbanne, FRANCE 
 ```
-Prospective research on the large strain and fracture behavior of ionic liquid (IL) modified polymer systems. The first step focuses on controlling the mechanical behavior through the topological nano-structuration of a phosphonium-ionic liquid epoxy system, while in second step multi-functional responses will be also considered, taking advantage of IL conductivity and thermal properties. The work is performed in the laboratoire d'Ingénierie des Matériaux Polymères (IMP) in collaboration with S. Livi, Pr. S. Pruvost, J. Bernard, Pr. J. Duchet \& Pr. J.-F. Gérard.
+Prospective research on the large strain and fracture behavior of ionic liquid (IL) modified polymer systems. The first step focuses on controlling the mechanical behavior through the topological nano-structuration of a phosphonium-ionic liquid epoxy system, while in second step multi-functional responses will be also considered, taking advantage of IL conductivity and thermal properties. The work is performed in the laboratoire d'Ingénierie des Matériaux Polymères (IMP) in collaboration with S. Livi, Pr. S. Pruvost, J. Bernard, Pr. J. Duchet & Pr. J.-F. Gérard.
 
 ![ESPCI](/pictures/ESPCI-logo.png){:width="400px"}
 
@@ -81,7 +84,11 @@ Five months stay as a visiting master student, including a two-months research p
 * * *
 ### Invited talks
 
+**2022**
+- **2022 Basic Research Challenge (BRC) Program Review Kickoff**, virtual meeting - USA - January 20th : _Mechanisms of cavitation by explosive decompression in hydrogen-exposed elastomers : Insights from 3D in-situ tomography and mechanochemistry_.
+
 **2021**
+- **DEPOS**, co-presented keynote talk with Pr. Sylvie Castagnet - FRA - September 29th : _Mécanismes de cavitation dans des élastomères sous décompression d'hydrogène : apports de la tomographie in-situ et de la mécanochimie_
 
 - **EURADH 2021 Virtual meeting**, keynote session - FRA - October 12th : _Role of damage by sacrificial bonds: Intrinsic differences between fatigue and toughness mechanisms in multiple network elastomers_.
 
