@@ -206,11 +206,11 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Supervision
 
-- **post-graduate level** (3) _not in dissertation commitee_ : mentoring and collaborative work with Louis Debertrand (2018-2019) at ESPCI, Jérémy Chevalier (2015-2018) at UCLouvain, and Ruobing Bai (2016-2017) at Harvard University.
+- **post-graduate level** (4) _not in dissertation commitee_ : mentoring and collaborative work with Xavi Lacambra (2021-2022) at INSA-Lyon, Louis Debertrand (2018-2019) at ESPCI, Jérémy Chevalier (2015-2018) at UCLouvain, and Ruobing Bai (2016-2017) at Harvard University.
 
-- **graduate level** (5) : daily based supervision of master students thesis project (6 months to 1 year) : Ana-Carolina Fernandez Rodas (2020, materials science, INSA-lyon), Elina Gilbert (2019, materials science, ESPCI), Loïc Van Nieuwenhuyse (2014-2015, materials science, UCL), Minh Le Duy (2013-2014, macromolecular nanotechnology, UCL), Jesus Gutierrez Martinez (2012-2013, mechanical engineering, UCL).
+- **graduate level** (7) : daily based supervision of master students thesis project (6 months to 1 year) : Noémie Maamouri & Joanna Baudino (2021, materials science, INSA-lyon), Ana-Carolina Fernandez Rodas (2021, materials science, INSA-lyon), Elina Gilbert (2019, materials science, ESPCI), Loïc Van Nieuwenhuyse (2014-2015, materials science, UCL), Minh Le Duy (2013-2014, macromolecular nanotechnology, UCL), Jesus Gutierrez Martinez (2012-2013, mechanical engineering, UCL).
 
-- **undergrad level** (2) : co-supervision of 6 month research internship of : Ana Santos (2018, ESPCI) and Enrui Zhang (2016, Harvard University).
+- **undergrad level** (2) : co-supervision of 2 to 6 month research internship of : Emmanuel Fabing (2022, INSA-Lyon), Ana Santos (2018, ESPCI) and Enrui Zhang (2016, Harvard University).
 
 * * *
 
@@ -225,7 +225,6 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 - **FRIA Doctoral Research Fellowship**, provided by the Belgian National Fund for Scientific Research (FNRS) (2011-2012)
 - **Best Master Thesis Presentation prize**, organized by AILouvain - Ecole Polytechnique de Louvain - UCLouvain (2011)
 - **AGC Scholarship**, organized by Ecole Polytechnique de Louvain - UCLouvain (2010)
-
 
 * * *
 
