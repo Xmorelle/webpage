@@ -5,11 +5,15 @@
 
 I am an enthousiastic materials science researcher focusing on the mechanics of soft and hard polymer networks, and more specifically how heterogeneous architectures can impact and potentially improve their mechanical and physical response.
 
-I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics and fracture of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_. I have now joined the Polymer Materials Engineering Lab (IMP - UMR5223) at INSA-Lyon where I have recently obtained a permanent CNRS Research Associate position.
+I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics and fracture of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris along with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_. I have now joined the Polymer Materials Engineering Lab (IMP - UMR5223) at INSA-Lyon where I have recently obtained a permanent CNRS Research Associate position.
 
 To learn more details on my background, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_sept2021.pdf).
 
 ### Recent news
+
+- **10/2022** : Welcome to Barthelemy Gros who joins the IMP lab to start his PhD, co-supervised with Paul Sotta, Jean-François Gérard and myself. He will be focusing on the detection of early damage by nano-cavitation in the polymer liner of hyperbar hydrogen tanks as part of the HYPERSTOCK project insisde the Decarbonated Hydrogen National Consortium #PEPR_H2. 
+
+- **09/2022** : I am happy to announce a new collaboration with Hutchinson industries who will be funding the master thesis project of Clémence Taffner who will be working on the durability of Fuel cells seals in acidic environment!
 
 - **06/2022** : Congrats to Loup Mambré who succesfully secured his funding for a ministry-funded (MESR) PhD after a well-prepared and executed oral defense at the Ecole Doctorale 34 of Lyon! => Enjoy some well-deserved holidays Loup before coming back in the fall to start working on ionic-liquid modified epoxy networks! 
 
