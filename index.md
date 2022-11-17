@@ -26,8 +26,6 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 - **03/2022** : Congratulations to both Noémie Maamouri and Joanna Baudino who just finished their master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours starting with your industry internship!
 While Noemie worked on a fundamental research project to better apprehend the molecular architercture of Room Temperature Vulcanization (RTV) silicon elastomers and how to make use of it to improve its mechanical properties, Joanna performed an applied research project in collaboration with Solvay R&D Center in order to toughen epoxy network with organic fillers.
 
-- **10/2021** : Great news to start the academic year as we succesfully obtained a BQR (Bonus Qualité Recherche) funding for 4 master students over 2 years with my colleagues Pr. Khalid Lamnawar (from IMP lab as well) and Nawfal Blal (from LamCos lab).
-
 
 ### Scientific Vision and Projects
 
