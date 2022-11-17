@@ -3,17 +3,19 @@
 
 ### About me
 
-I am an enthousiastic materials science researcher focusing on the mechanics of soft and hard polymer networks, and more specifically how heterogeneous architectures can impact and potentially improve their mechanical and physical response.
+I am CNRS researcher focusing on the mechanics of soft and hard polymer networks, and more specifically on how heterogeneous architectures can impact and potentially improve their mechanical and physical response.
 
-I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics and fracture of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris along with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_. I have now joined the Polymer Materials Engineering Lab (IMP - UMR5223) at INSA-Lyon where I have recently obtained a permanent CNRS Research Associate position.
+I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics and fracture of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris along with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_. I have now joined the Polymer Materials Engineering Lab (IMP - UMR5223) at INSA-Lyon where I am now building my own research group.
 
 To learn more details on my background, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_sept2021.pdf).
 
 ### Recent news
 
+- **11/2022** : Good news with 2 of our papers accepted for publication (see "**Publications**") with (i) the work of Benoit Caprin on the rheological and mechanical behavior of thermoreversible physical organo-hydrogels based on polysaccharides, and (ii) the work of Xavi Lacambra Andreu on the characterization and modelling of self-healing process (through macromolecular chain diffusion) occuring during 3D-printing by filament deposition.
+
 - **10/2022** : Welcome to Barthelemy Gros who joins the IMP lab to start his PhD, co-supervised with Paul Sotta, Jean-François Gérard and myself. He will be focusing on the detection of early damage by nano-cavitation in the polymer liner of hyperbar hydrogen tanks as part of the HYPERSTOCK project insisde the Decarbonated Hydrogen National Consortium #PEPR_H2. 
 
-- **09/2022** : I am happy to announce a new collaboration with Hutchinson industries who will be funding the master thesis project of Clémence Taffner who will be working on the durability of Fuel cells seals in acidic environment!
+- **09/2022** : I am happy to announce a new collaboration with Hutchinson Research & Innovation Center who will be funding the master thesis project of Clémence Taffner who will be working on the durability of Fuel cells seals in acidic environment.
 
 - **06/2022** : Congrats to Loup Mambré who succesfully secured his funding for a ministry-funded (MESR) PhD after a well-prepared and executed oral defense at the Ecole Doctorale 34 of Lyon! => Enjoy some well-deserved holidays Loup before coming back in the fall to start working on ionic-liquid modified epoxy networks! 
 
@@ -22,20 +24,9 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 - **04/2022** : Conference series coming up! I will have the pleasure to present some of my previous work first at the European Mechanics of Materials Conference (EMMC18) in Oxford and then move to the Rolduc Abbey in the Netherlands to attend for my first time to the very famous DYFP (Deformation Yield and Fracture of Polymers) conference. Looking forward to these events to catch up with old colleagues and friends from all over Europe.
 
 - **03/2022** : Congratulations to both Noémie Maamouri and Joanna Baudino who just finished their master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours starting with your industry internship!
-While Noemie worked on a fundamental research project to better apprehend the molecular architercture of Room Temperature Vulcanization (RTV) silicon elastomers and how to make use of it to improve its mechanical properties, Joanna performed an applied research project in collaboration with Solvay in order to toughen epoxy network with organic fillers.
+While Noemie worked on a fundamental research project to better apprehend the molecular architercture of Room Temperature Vulcanization (RTV) silicon elastomers and how to make use of it to improve its mechanical properties, Joanna performed an applied research project in collaboration with Solvay R&D Center in order to toughen epoxy network with organic fillers.
 
 - **10/2021** : Great news to start the academic year as we succesfully obtained a BQR (Bonus Qualité Recherche) funding for 4 master students over 2 years with my colleagues Pr. Khalid Lamnawar (from IMP lab as well) and Nawfal Blal (from LamCos lab).
-
-- **08/2021** : With holidays coming to an end, it is time to go back to school but also to conferences!                                                              
-For this fall, I will have the pleasure to physically attend the **DEPOS conference** (Deformation of Solid Polymers) in Mandelieu-La Napoule where I'll be presenting some of my most recent work on _ionic liquid modified epoxys_ and where my dear collaborator Sylvie Castagnet will be presenting a _Keynote_ on some of our shared work on the _cavitation of elastomers_. I will then also have the pleasure to present an **invited Keynote** at the **EURADH 2021 virtual meeting** (European Adhesion Conference) on the _role of damage by sacrificial bonds on the fatigue and toughness behavior of multiple network elastomers_.
-
-- **07/2021** : The official announcement finally came in! => I succesfully obtained a **permanent CNRS research fellow position** ("Chargé de recherche") and I will thus start as a Research Associate inside the IMP lab (UMR n°5223) at INSA-Lyon on October 1st. Truly happy to start this brand new chapter of my academic journey!
-
-- **04/2021** : Great start of the month, with no April fool prank, but instead two of our latest papers finally published! Our first [cavitation work](https://doi.org/10.1039/D1SM00325A) with ESPCI is thus accepted for publication in _Soft Matter_, while our newest work on [epoxy network reinforced with ionic-liquid grafted POSS](https://doi.org/10.1016/j.polymer.2021.123721) with the IMP lab (through Houssém Chabane PhD) just got out in _Polymer_ => go have a look at the **Publications** section for their detailed reference and links!
-
-- **02/2021** : Another one of our work making use of mechanochemistry to better understand the fracture mechanisms in multiple network elastomers is now posted in ChemRxiv => go give it a look to better apprehend the intrinsic challenge and differences to improve fatigue resistance vs fracture toughness!                        _[Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Scission](https://chemrxiv.org/s/5130169c1b170ad59bbd)_
-
-- **02/2021** : Good news for this early february with 2 of our papers accepted for publication (see "**Publications**") with (i) a review of the work performed over the last 10 years in my PhD group on a better understanding of the nanomechanics of polymer-based composites (including both multi-scale characterization and physics-based modeling) under the wise supervision of Pr. Thomas Pardoen, and (ii) a work from my post-doctoral stay in Harvard in collaboration with Pr. Xi Yao on the development of novel anti-icing materials and blankets based on propylene-glycol gels.
 
 
 ### Scientific Vision and Projects
@@ -135,9 +126,15 @@ xx. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical 
 
 yy. R. Bai, **X. P. Morelle**, J. Wang, Z. Suo, "Rupture and debonding of soft layered materials", _under preparation_.
 
+**2022**
+* * *
+19. B. Caprin, G. Viñado-Buil, G. Sudre, **X. P. Morelle**, F. Da Cruz-Boisson, A. Charlot, and E. Fleury, "κ‐Carrageenan Associated with Fructose/Glycerol/Water LTTM: Toward Natural Thermosensitive Physical Gels", _ACS Sustainable Chemistry & Engineering_, **2022**. [https://doi.org/10.1021/acssuschemeng.2c04437](https://doi.org/10.1021/acssuschemeng.2c04437)
+
+20. X. Lacambra Andreu, **X. P. Morelle**, Abderrahim Maazouz, Jean-Marc Chenal, and Khalid Lamnawar,"Rheological investigation and modeling of healing properties during extrusion-based 3D printing of poly(lactic-acid)",_accepted in Rheologica Acta_, **2022*.
+
+
 **2021**
 * * *
-15.  G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Chain Scission", **2021**, _accepted in Science Advances_, pre-print available on [ChemRxiv](https://chemrxiv.org/s/5130169c1b170ad59bbd).
 
 14. X. Yao, B. Chen, **X. P. Morelle**, Z. Suo, "Anti-icing propylene glycol materials",_Extreme Mechanics Letters_, **2021**, vol 44, 101225. [https://doi.org/10.1016/j.eml.2021.101225](https://doi.org/10.1016/j.eml.2021.101225).
 
@@ -146,6 +143,8 @@ yy. R. Bai, **X. P. Morelle**, J. Wang, Z. Suo, "Rupture and debonding of soft l
 16. H. Chabane, S. Livi, **X. P. Morelle**, Rodolphe Sonnier, Loïc Dumazert, Jannick Duchet-Rumeau, Jean-François Gérard, "Synthesis of New Ionic Liquid-Grafted Metal-Oxo Nanoclusters – Design of Nanostructured Hybrid Organic-Inorganic Polymer Networks", _Polymer_ for "GFP 50th Anniversary" special issue, **2021**. [https://doi.org/10.1016/j.polymer.2021.123721](https://doi.org/10.1016/j.polymer.2021.123721)
 
 17. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "3D Fluorescent Mapping of Invisible Molecular Damage after Cavitation in Hydrogen Exposed Elastomers", _Soft Matter_, **2021**. [https://doi.org/10.1039/D1SM00325A](https://doi.org/10.1039/D1SM00325A)
+
+18. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Chain Scission", **2021**, _Science Advances_, pre-print available on [ChemRxiv](https://chemrxiv.org/s/5130169c1b170ad59bbd).
 
 **2019**
 * * *
@@ -214,7 +213,7 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 - **graduate level** (7) : daily based supervision of master students thesis project (6 months to 1 year) : Noémie Maamouri & Joanna Baudino (2021, materials science, INSA-lyon), Ana-Carolina Fernandez Rodas (2021, materials science, INSA-lyon), Elina Gilbert (2019, materials science, ESPCI), Loïc Van Nieuwenhuyse (2014-2015, materials science, UCL), Minh Le Duy (2013-2014, macromolecular nanotechnology, UCL), Jesus Gutierrez Martinez (2012-2013, mechanical engineering, UCL).
 
-- **undergrad level** (2) : co-supervision of 2 to 6 month research internship of : Emmanuel Fabing (2022, INSA-Lyon), Ana Santos (2018, ESPCI) and Enrui Zhang (2016, Harvard University).
+- **undergrad level** (3) : co-supervision of 2 to 6 month research internship of : Emmanuel Fabing (2022, INSA-Lyon), Ana Santos (2018, ESPCI) and Enrui Zhang (2016, Harvard University).
 
 * * *
 
