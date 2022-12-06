@@ -11,6 +11,8 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+- **12/2022** : Go have a quick look at the **General audience media** section for a small ad on the novel work initiative in medical engineering developped in Lyon around building an artificial organ platform for medical devices validation through the MIMIMed project that I will co-manage with Guilhem Rival (principal project carrier) from LGEF laboratory and Rémy Gauthier from Matéis lab.
+
 - **11/2022** : Good news with 2 of our papers accepted for publication (see "**Publications**") with (i) the work of Benoit Caprin on the rheological and mechanical behavior of thermoreversible physical organo-hydrogels based on polysaccharides, and (ii) the work of Xavi Lacambra Andreu on the characterization and modelling of self-healing process (through macromolecular chain diffusion) occuring during 3D-printing by filament deposition.
 
 - **10/2022** : Welcome to Barthelemy Gros who joins the IMP lab to start his PhD, co-supervised with Paul Sotta, Jean-François Gérard and myself. He will be focusing on the detection of early damage by nano-cavitation in the polymer liner of hyperbar hydrogen tanks as part of the HYPERSTOCK project insisde the Decarbonated Hydrogen National Consortium #PEPR_H2. 
@@ -44,7 +46,7 @@ _Projects : in construction..._
 ```
 # 2020 - now : Laboratoire Ingénierie des Matériaux Polymères (IMP - UMR5223) | INSA de Lyon, Villeurbanne, FRANCE 
 ```
-Prospective research on the large strain and fracture behavior of ionic liquid (IL) modified polymer systems. The first step focuses on controlling the mechanical behavior through the topological nano-structuration of a phosphonium-ionic liquid epoxy system, while in second step multi-functional responses will be also considered, taking advantage of IL conductivity and thermal properties. The work is performed in the laboratoire d'Ingénierie des Matériaux Polymères (IMP) in collaboration with S. Livi, Pr. S. Pruvost, J. Bernard, Pr. J. Duchet & Pr. J.-F. Gérard.
+Prospective research on the large strain and fracture behavior of ionic liquid (IL) modified polymer systems. The first step focuses on controlling the mechanical behavior through the topological nano-structuration of a phosphonium-ionic liquid epoxy system, while in second step multi-functional responses will be also considered, taking advantage of IL conductivity and thermal properties. The work is performed in the laboratoire d'Ingénierie des Matériaux Polymères (IMP) in collaboration with S. Livi & Pr. S. Pruvost.
 
 ![ESPCI](/pictures/ESPCI-logo.png){:width="400px"}
 
@@ -231,7 +233,7 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Professional and community services
 
-- **Group seminar organizer** for the INSA-Lyon site of the IMP lab (2020-current) - Organization of internal group seminars for exposing the work of PhD studends, post-docs and permanent researchers, in order to promote exchanges and collaborations between lab members.
+- **Group seminar organizer** for the IMP lab (2020-current) - Organization of internal group seminars for exposing the work of PhD studends, post-docs and permanent researchers, in order to promote exchanges and collaborations between lab members.
 
 - **Mechanical Testing equipment trainer** in INSA-Lyon site of the IMP lab (2019-current) - Person-in-charge for new training on Uniaxial testing machines (Instron and MTS) for quasi-static, fracture and fatigue loading of polymer-based specimens.
 
@@ -245,7 +247,7 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 - **New equipment purchase and installation** for Suo Lab installation at Harvard University (2016) - Purchase of a universal testing machine with associated load cells and temperature chamber. Coordination of lab duct work and machine installation with Harvard McKay building teams.
 
-- **co-organizer of PhD promotion day** at iMMC, UCLouvain (2011-2014) - Lab promotion presentation and visit organized for 2nd year engineering master students.
+- **co-organizer of the PhD promotion day** at iMMC, UCLouvain (2011-2014) - Lab promotion presentation and visit organized for 2nd year engineering master students.
 
 - **Student representative** at EPL, UCLouvain (2008-2011) - Involvement within the Applied Physics and Chemistry degree program commission and work with academic authorities. Coordinate and organize examination schedule as well as other extra-academic group activities.
 
@@ -258,6 +260,8 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 - ORCID link : [orcid.org/0000-0001-6508-8945](https://orcid.org/0000-0001-6508-8945)
 
 ### General audience media
+
+- 12/2022 : quick [youtube presentation](https://www.youtube.com/watch?v=lnlzkdAsrEo) of the pluri-disciplinary work initiative in medical engineering developped in Lyon through the Carnot Institut funding and more specifically of the MIMIMed project aiming at building an artificial organs platform for pre-clinical validation of medical devices.
 
 - 12/2020 : article of Johanna Miller from _Physics Today_ on the use of mechano-fluorescent molecular probes to study the fracture of elastomers, highlighting the work performed in the group of Costantino Creton these last years and in particular the thesis of Juliette Slootman. [Stretchy molecules rupture far from the crack](https://physicstoday.scitation.org/do/10.1063/PT.6.1.20201222a/full/)
 
