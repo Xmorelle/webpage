@@ -3,7 +3,7 @@
 
 ### About me
 
-I am CNRS researcher focusing on the mechanics of soft and hard polymer networks, and more specifically on how heterogeneous architectures can impact and potentially improve their mechanical and physical response.
+I am a CNRS researcher focusing on the mechanics of soft and hard polymer networks, and more specifically on how heterogeneous architectures can impact and potentially improve their mechanical and physical response.
 
 I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics and fracture of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris along with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_. I have now joined the Polymer Materials Engineering Lab (IMP - UMR5223) at INSA-Lyon where I am now building my own research group.
 
