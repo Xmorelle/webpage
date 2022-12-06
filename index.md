@@ -19,14 +19,14 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 
 - **09/2022** : I am happy to announce a new collaboration with Hutchinson Research & Innovation Center who will be funding the master thesis project of Clémence Taffner who will be working on the durability of Fuel cells seals in acidic environment.
 
-- **06/2022** : Congrats to Loup Mambré who succesfully secured his funding for a ministry-funded (MESR) PhD after a well-prepared and executed oral defense at the Ecole Doctorale 34 of Lyon! => Enjoy some well-deserved holidays Loup before coming back in the fall to start working on ionic-liquid modified epoxy networks! 
+- **06/2022** : Congrats to Loup Mambré who has succesfully secured his funding for a ministry-funded (MESR) PhD after a well-prepared and executed oral defense at the Ecole Doctorale 34 of Lyon! => Enjoy some well-deserved holidays Loup before coming back in the fall to start working on ionic-liquid modified epoxy networks! 
 
-- **05/2022** : Welcome to Emmanuel Fabing who will be performing an internship studying the mechanical response of multi-nanolayers made by co-extrusion, co-supervised with my colleagues Pr. Khalid Lamnawar and Pr. Sébastien Pruvost.
+- **05/2022** : Welcome to Emmanuel Fabing who will be performing an internship studying the mechanical response of multi-micro/nanolayers polymer films made by co-extrusion, co-supervised with my colleagues Pr. Khalid Lamnawar and Pr. Sébastien Pruvost.
 
 - **04/2022** : Conference series coming up! I will have the pleasure to present some of my previous work first at the European Mechanics of Materials Conference (EMMC18) in Oxford and then move to the Rolduc Abbey in the Netherlands to attend for my first time to the very famous DYFP (Deformation Yield and Fracture of Polymers) conference. Looking forward to these events to catch up with old colleagues and friends from all over Europe.
 
 - **03/2022** : Congratulations to both Noémie Maamouri and Joanna Baudino who just finished their master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours starting with your industry internship!
-While Noemie worked on a fundamental research project to better apprehend the molecular architercture of Room Temperature Vulcanization (RTV) silicon elastomers and how to make use of it to improve its mechanical properties, Joanna performed an applied research project in collaboration with Solvay R&D Center in order to toughen epoxy network with organic fillers.
+While Noemie worked on a fundamental research project to better apprehend the molecular architecture of Room Temperature Vulcanization (RTV) silicon elastomers, Joanna performed an applied research project in collaboration with Solvay R&D Center in order to toughen epoxy network with organic fillers.
 
 
 ### Scientific Vision and Projects
@@ -78,6 +78,9 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 Five months stay as a visiting master student, including a two-months research project in the field of nano-composites under the supervision of Pr. L.E. Govaert and Pr. J.G.P. Goosens.
 * * *
 ### Invited talks
+
+**2023**
+- **PPrime Institute** at ENSMA Poitiers, invited seminar - FRA - January 20th : _TBD_
 
 **2022**
 - **2022 Basic Research Challenge (BRC) Program Review Kickoff**, virtual meeting - USA - January 20th : _Mechanisms of cavitation by explosive decompression in hydrogen-exposed elastomers : Insights from 3D in-situ tomography and mechanochemistry_.
