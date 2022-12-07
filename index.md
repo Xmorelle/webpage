@@ -11,21 +11,21 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
-- **12/2022** : Go have a quick look at the **General audience media** section for a small ad on the novel work initiative in medical engineering developped in Lyon around building an artificial organ platform for medical devices validation through the MIMIMed project that I will co-manage with Guilhem Rival (principal project carrier) from LGEF laboratory and Rémy Gauthier from Matéis lab.
+- **12/2022** : Go have a quick look at the **General audience media** section for a small ad on the novel work initiative in medical engineering developped in Lyon around building an artificial organ platform for medical devices validation through the MIMIMed project that I will co-manage with _Guilhem Rival_ (principal project carrier) from LGEF laboratory and _Rémy Gauthier_ from Matéis lab.
 
-- **11/2022** : Good news with 2 of our papers accepted for publication (see "**Publications**") with (i) the work of Benoit Caprin on the rheological and mechanical behavior of thermoreversible physical organo-hydrogels based on polysaccharides, and (ii) the work of Xavi Lacambra Andreu on the characterization and modelling of self-healing process (through macromolecular chain diffusion) occuring during 3D-printing by filament deposition.
+- **11/2022** : Good news with 2 of our papers accepted for publication (see "**Publications**") with (i) the work of _Benoit Caprin_ on the rheological and mechanical behavior of thermoreversible physical organo-hydrogels based on polysaccharides, and (ii) the work of _Xavi Lacambra Andreu_ on the characterization and modelling of self-healing process (through macromolecular chain diffusion) occuring during 3D-printing by filament deposition.
 
-- **10/2022** : Welcome to Barthelemy Gros who joins the IMP lab to start his PhD, co-supervised with Paul Sotta, Jean-François Gérard and myself. He will be focusing on the detection of early damage by nano-cavitation in the polymer liner of hyperbar hydrogen tanks as part of the HYPERSTOCK project insisde the Decarbonated Hydrogen National Consortium #PEPR_H2. 
+- **10/2022** : Welcome to _Barthelemy Gros_ who joins the IMP lab to start his PhD, co-supervised with _Paul Sotta_, _Jean-François Gérard_ and myself. He will be focusing on the detection of early damage by nano-cavitation in the polymer liner of hyperbar hydrogen tanks as part of the HYPERSTOCK project insisde the Decarbonated Hydrogen National Consortium #PEPR_H2. 
 
-- **09/2022** : I am happy to announce a new collaboration with Hutchinson Research & Innovation Center who will be funding the master thesis project of Clémence Taffner who will be working on the durability of Fuel cells seals in acidic environment.
+- **09/2022** : I am happy to announce a new collaboration with Hutchinson Research & Innovation Center who will be funding the master thesis project of _Clémence Taffner_ who will be working on the durability of Fuel cells seals in acidic environment.
 
-- **06/2022** : Congrats to Loup Mambré who has succesfully secured his funding for a ministry-funded (MESR) PhD after a well-prepared and executed oral defense at the Ecole Doctorale 34 of Lyon! => Enjoy some well-deserved holidays Loup before coming back in the fall to start working on ionic-liquid modified epoxy networks! 
+- **06/2022** : Congrats to _Loup Mambré_ who has succesfully secured his funding for a ministry-funded (MESR) PhD after a well-prepared and executed oral defense at the Ecole Doctorale 34 of Lyon! => Enjoy some well-deserved holidays Loup before coming back in the fall to start working on ionic-liquid modified epoxy networks! 
 
-- **05/2022** : Welcome to Emmanuel Fabing who will be performing an internship studying the mechanical response of multi-micro/nanolayers polymer films made by co-extrusion, co-supervised with my colleagues Pr. Khalid Lamnawar and Pr. Sébastien Pruvost.
+- **05/2022** : Welcome to _Emmanuel Fabing_ who will be performing an internship studying the mechanical response of multi-micro/nanolayers polymer films made by co-extrusion, co-supervised with my colleagues _Pr. Khalid Lamnawar_ and _Pr. Sébastien Pruvost_.
 
 - **04/2022** : Conference series coming up! I will have the pleasure to present some of my previous work first at the European Mechanics of Materials Conference (EMMC18) in Oxford and then move to the Rolduc Abbey in the Netherlands to attend for my first time to the very famous DYFP (Deformation Yield and Fracture of Polymers) conference. Looking forward to these events to catch up with old colleagues and friends from all over Europe.
 
-- **03/2022** : Congratulations to both Noémie Maamouri and Joanna Baudino who just finished their master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours starting with your industry internship!
+- **03/2022** : Congratulations to both _Noémie Maamouri_ and _Joanna Baudino_ who just finished their master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours starting with your industry internship!
 While Noemie worked on a fundamental research project to better apprehend the molecular architecture of Room Temperature Vulcanization (RTV) silicon elastomers, Joanna performed an applied research project in collaboration with Solvay R&D Center in order to toughen epoxy network with organic fillers.
 
 
