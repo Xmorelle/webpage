@@ -11,6 +11,8 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
+- **01/2023** : Glad to announce, I'll have the privilege for this new year to join the editorial board of _Engineering Fracture Mechanics_ Journal as a junior Advisory Board Member.
+
 - **12/2022** : Go have a quick look at the **General audience media** section for a small ad on the novel work initiative in medical engineering developped in Lyon around building an artificial organ platform for medical devices validation through the MIMIMed project that I will co-manage with _Guilhem Rival_ (principal project carrier) from LGEF laboratory and _Rémy Gauthier_ from Matéis lab.
 
 - **11/2022** : Good news with 2 of our papers accepted for publication (see "**Publications**") with (i) the work of _Benoit Caprin_ on the rheological and mechanical behavior of thermoreversible physical organo-hydrogels based on polysaccharides, and (ii) the work of _Xavi Lacambra Andreu_ on the characterization and modelling of self-healing process (through macromolecular chain diffusion) occuring during 3D-printing by filament deposition.
@@ -22,12 +24,7 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 - **06/2022** : Congrats to _Loup Mambré_ who has succesfully secured his funding for a ministry-funded (MESR) PhD after a well-prepared and executed oral defense at the Ecole Doctorale 34 of Lyon! => Enjoy some well-deserved holidays Loup before coming back in the fall to start working on ionic-liquid modified epoxy networks! 
 
 - **05/2022** : Welcome to _Emmanuel Fabing_ who will be performing an internship studying the mechanical response of multi-micro/nanolayers polymer films made by co-extrusion, co-supervised with my colleagues _Pr. Khalid Lamnawar_ and _Pr. Sébastien Pruvost_.
-
-- **04/2022** : Conference series coming up! I will have the pleasure to present some of my previous work first at the European Mechanics of Materials Conference (EMMC18) in Oxford and then move to the Rolduc Abbey in the Netherlands to attend for my first time to the very famous DYFP (Deformation Yield and Fracture of Polymers) conference. Looking forward to these events to catch up with old colleagues and friends from all over Europe.
-
-- **03/2022** : Congratulations to both _Noémie Maamouri_ and _Joanna Baudino_ who just finished their master thesis resarch project with a very-well performed oral defense! => Good luck in your future endeavours starting with your industry internship!
-While Noemie worked on a fundamental research project to better apprehend the molecular architecture of Room Temperature Vulcanization (RTV) silicon elastomers, Joanna performed an applied research project in collaboration with Solvay R&D Center in order to toughen epoxy network with organic fillers.
-
+- 
 
 ### Scientific Vision and Projects
 
@@ -80,7 +77,7 @@ Five months stay as a visiting master student, including a two-months research p
 ### Invited talks
 
 **2023**
-- **PPrime Institute** at ENSMA Poitiers, invited seminar - FRA - January 20th : _TBD_
+- **PPrime Institute** at ENSMA Poitiers, invited seminar - FRA - January 20th : _Optimizing both Fracture Toughness and High Fatigue Resistance in Multiple Network Elastomer an impossible task? The role and limits of Dissipation by Polymer Chain Scission_
 
 **2022**
 - **2022 Basic Research Challenge (BRC) Program Review Kickoff**, virtual meeting - USA - January 20th : _Mechanisms of cavitation by explosive decompression in hydrogen-exposed elastomers : Insights from 3D in-situ tomography and mechanochemistry_.
