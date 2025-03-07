@@ -130,17 +130,17 @@ _Mechanical characterization towards physics-based modeling of soft polymer netw
 
 ### Publications
 
-**pre-print works**
+**2024**
 * * *
-xx. **X. P. Morelle**, J. Chopin, C. Creton, E. Barthel, M. Ciccotti, "Critical parameters governing heterogeneous adhesion of PSA on textured surfaces", _under preparation_.
+21. J. Li, I. Touil, G. Sudre, M. Yousfi, B. Lu, H. Zhang, J. Shen, **X. P. Morelle**, A. Maazouz, K. Lamnawar, "Fabrication of architectured multilayers with mismatched rheological behaviors : layer stability, structure, and confinement dictate polyethylene-based film properties",_ACS Industrial & Engineering Chemistry Research_, **2024**, 63 (4), pp.1953-1964. [https://doi/10.1021/acs.iecr.3c03923](https://doi/10.1021/acs.iecr.3c03923)
 
-yy. R. Bai, **X. P. Morelle**, J. Wang, Z. Suo, "Rupture and debonding of soft layered materials", _under preparation_.
+**2023**
+* * *
+20. X. Lacambra Andreu, **X. P. Morelle**, Abderrahim Maazouz, Jean-Marc Chenal, and Khalid Lamnawar,"Rheological investigation and modeling of healing properties during extrusion-based 3D printing of poly(lactic-acid)",_Rheologica Acta_, **2023**.[https://doi.org/10.1007/s00397-022-01377-6](https://doi.org/10.1007/s00397-022-01377-6)
 
 **2022**
 * * *
 19. B. Caprin, G. Viñado-Buil, G. Sudre, **X. P. Morelle**, F. Da Cruz-Boisson, A. Charlot, and E. Fleury, "κ‐Carrageenan Associated with Fructose/Glycerol/Water LTTM: Toward Natural Thermosensitive Physical Gels", _ACS Sustainable Chemistry & Engineering_, **2022**. [https://doi.org/10.1021/acssuschemeng.2c04437](https://doi.org/10.1021/acssuschemeng.2c04437)
-
-20. X. Lacambra Andreu, **X. P. Morelle**, Abderrahim Maazouz, Jean-Marc Chenal, and Khalid Lamnawar,"Rheological investigation and modeling of healing properties during extrusion-based 3D printing of poly(lactic-acid)",_accepted in Rheologica Acta_, **2022*.
 
 
 **2021**
@@ -154,7 +154,7 @@ yy. R. Bai, **X. P. Morelle**, J. Wang, Z. Suo, "Rupture and debonding of soft l
 
 17. **X. P. Morelle**, G. E. Sanoja, S. Castagnet, C. Creton, "3D Fluorescent Mapping of Invisible Molecular Damage after Cavitation in Hydrogen Exposed Elastomers", _Soft Matter_, **2021**. [https://doi.org/10.1039/D1SM00325A](https://doi.org/10.1039/D1SM00325A)
 
-18. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Chain Scission", **2021**, _Science Advances_, pre-print available on [ChemRxiv](https://chemrxiv.org/s/5130169c1b170ad59bbd).
+18. G. E. Sanoja, **X. P. Morelle**, J.Comtet, C. Creton, "Why is Mechanical Fatigue Different from Toughness in Elastomers? The Role of Damage by Polymer Chain Scission", _Science Advances_, **2021**. [https://doi.org/10.1126/sciadv.abg9410)](https://doi.org/10.1126/sciadv.abg9410).
 
 **2019**
 * * *
@@ -219,16 +219,21 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Supervision
 
-- **post-graduate level** (4) _not in dissertation commitee_ : mentoring and collaborative work with Xavi Lacambra (2021-2022) at INSA-Lyon, Louis Debertrand (2018-2019) at ESPCI, Jérémy Chevalier (2015-2018) at UCLouvain, and Ruobing Bai (2016-2017) at Harvard University.
+- **post-graduate level** (5) _not in dissertation commitee_ : mentoring and collaborative work with Xavi Lacambra (2021-2022) at INSA-Lyon, Benoît Caprin (2020-2022) at INSA-Lyon, Louis Debertrand (2018-2019) at ESPCI, Jérémy Chevalier (2015-2018) at UCLouvain, and Ruobing Bai (2016-2017) at Harvard University.
 
-- **graduate level** (7) : daily based supervision of master students thesis project (6 months to 1 year) : Noémie Maamouri & Joanna Baudino (2021, materials science, INSA-lyon), Ana-Carolina Fernandez Rodas (2021, materials science, INSA-lyon), Elina Gilbert (2019, materials science, ESPCI), Loïc Van Nieuwenhuyse (2014-2015, materials science, UCL), Minh Le Duy (2013-2014, macromolecular nanotechnology, UCL), Jesus Gutierrez Martinez (2012-2013, mechanical engineering, UCL).
+- **graduate level** (12) : daily based supervision of master students thesis project (6 months to 1 year) : Léa Rozel (2023, materials science, INSA-Lyon), Clémence Taffner (2022; materials science, INSA-Lyon), Noémie Maamouri & Joanna Baudino (2021, materials science, INSA-lyon), Ana-Carolina Fernandez Rodas (2021, materials science, INSA-lyon), Elina Gilbert (2019, materials science, ESPCI), Loïc Van Nieuwenhuyse (2014-2015, materials science, UCLouvain), Minh Le Duy (2013-2014, macromolecular nanotechnology, UCLouvain), Jesus Gutierrez Martinez (2012-2013, mechanical engineering, UCLouvain).
 
 - **undergrad level** (3) : co-supervision of 2 to 6 month research internship of : Emmanuel Fabing (2022, INSA-Lyon), Ana Santos (2018, ESPCI) and Enrui Zhang (2016, Harvard University).
 
 * * *
 
+### Obtained grants
+_under construction_
+
+* * *
+
 ### Awards & Fellowships
-- **CNRS competition for the grade of Chargé de recherche** (section 11) - Admission to the CNRS with a permanent Research Associate position
+- **CNRS competition for the position of Chargé de recherche** (section 11) - Admission to the CNRS with a permanent Research Associate position
 - **Qualification Maître de Conférences** - aptitude certification to be an engineering professor in France (2018-2022)
 - **WBI World Excellence Fellowship**, provided by Wallonie-Bruxelles International (2017-2019)
 - **2nd Best Scientific Picture** at 2018 PC-Focus day, organized by ESPCI Paris (2018)
@@ -243,13 +248,13 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Professional and community services
 
-- **Group seminar organizer** for the IMP lab (2020-current) - Organization of internal group seminars for exposing the work of PhD studends, post-docs and permanent researchers, in order to promote exchanges and collaborations between lab members.
+- **Group seminar organizer** for the IMP lab (2020-current) - Organization of weekly internal group seminars for presenting the work of PhD studends, post-docs and permanent researchers, in order to foster exchanges and collaborations between lab members.
 
 - **Mechanical Testing equipment trainer** in INSA-Lyon site of the IMP lab (2019-current) - Person-in-charge for new training on Uniaxial testing machines (Instron and MTS) for quasi-static, fracture and fatigue loading of polymer-based specimens.
 
 - **Lab visit and science promotion for teenagers** in SIMM lab at ESPCI Paris (2017-2019) - Organization of small lab visit and experimental demonstration for high school students during occasional week-long science camps.
 
-- **Trustee in the board of directors** of Gravelines rowing club (2017-now) - As a trustee, I get involved into the general management, planning and new projects development of Gravelines rowing club. My missions non exhaustively include the organization and participation to international rowing regattas, preparation of the annual general membership meeting, and promotion of the club activities on social networks.
+- **Trustee in the board of directors** of Gravelines rowing club (2017-2023) - As a trustee, I get involved into the general management, planning and new projects development of Gravelines rowing club. My missions non exhaustively include the organization and participation to international rowing regattas, preparation of the annual general membership meeting, and promotion of the club activities on social networks.
 
 - **Lab safety officer and equipment trainer** in Suo Lab at Harvard University (2016-2017) - Emergency lab contact, development of equipment safety procedure, LN2 ordering, chemical inventory and waste disposal coordination. Person-in-charge for new training on Instron testing machine and on the high-voltage amplifier.
 
@@ -263,7 +268,6 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Professional social media
 
-- Twitter page : [@xavier_morelle](https://twitter.com/xavier_morelle)
 - Google scholar page : [publications list with citations](https://scholar.google.fr/citations?user=ShCxF94AAAAJ&hl=fr)
 - Research gate page : [www.researchgate.net/profile/Xavier_Morelle](https://www.researchgate.net/profile/Xavier_Morelle)
 - Linkedin page : [www.linkedin.com/in/xavier-morelle/](https://www.linkedin.com/in/xavier-morelle/)
