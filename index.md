@@ -11,7 +11,7 @@ To learn more details on my background, have a look at my [CV](/DownloadableFile
 
 ### Recent news
 
-_under upadating procedure..._
+_soon to be updated..._
 
 - **01/2023** : Glad to announce, I'll have the privilege for this new year to join the editorial board of _Engineering Fracture Mechanics_ Journal as a junior Advisory Board Member.
 
