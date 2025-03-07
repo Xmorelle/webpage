@@ -77,7 +77,9 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 # 2010 - 2011 : Erasmus student exchange in the Chemical Engineering and Chemistry Department | TU/e Eindhoven University of Technology, Eindhoven, NETHERLANDS
 ```
 Five months stay as a visiting master student, including a two-months research project in the field of nano-composites under the supervision of Pr. L.E. Govaert and Pr. J.G.P. Goosens.
+
 * * *
+
 ### Invited talks
 **2024**
 - **Saint-Gobain Research** invited seminar, Aubervilliers - FRA - September 5th : _Advanced characterization and mechanical enhancement of polymer systems : from silicone rubbers to multi-nanolayered films_ 
@@ -277,6 +279,8 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 - **co-organizer of the PhD promotion day** at iMMC, UCLouvain (2011-2014) - Lab promotion presentation and visit organized for 2nd year engineering master students.
 
 - **Student representative** at EPL, UCLouvain (2008-2011) - Involvement within the Applied Physics and Chemistry degree program commission and work with academic authorities. Coordinate and organize examination schedule as well as other extra-academic group activities.
+
+* * * 
 
 ### Professional social media
 
