@@ -233,18 +233,15 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Obtained grants
 
-- **_2024_ - Project GLASS-REPLACE2**, OpenLabs funding from INSA group (main carrier : M. Solar), ICS – France. 1 year project funding for a student internship in ICS lab at INSA Strasbourg.
+- **_2024_ - Project GLASS-REPLACE2**, OpenLabs funding from INSA group (main carrier : M. Solar). 1 year project funding for a student internship in ICS lab at INSA Strasbourg.
 
-- **_2023_ - Project GLASS-REPLACE**, OpenLabs funding from INSA group, IMP – France. 1 year project funding for a student internship at IMP (collaboration with ICS at INSA Strasbourg) and for purchasing mechanical testing equipment.
+- **_2023_ - Project GLASS-REPLACE**, OpenLabs funding from INSA group. 1 year project funding for a student internship at IMP (collaboration with ICS at INSA Strasbourg) and for purchasing mechanical testing equipment.
 
-- **_2022_ - Project SilGenβ**, ANR funding (main carrier F. Ganachaud), IMP – France.
-4 years funding for 2 PhD thesis and 1 year post-doctoral stay aiming at producing the "next generation" of RTV silicone elastomers combining super-softness at small deformation and large-strain stiffening at large strains as generally observed in natural tissues.
+- **_2022_ - Project SilGenβ**, ANR funding (main carrier F. Ganachaud). 4 years funding for 2 PhD thesis and 1 year post-doctoral stay aiming at producing the "next generation" of RTV silicone elastomers combining super-softness at small deformation and large-strain stiffening at large strains as generally observed in natural tissues.
 
-- **_2022_ - Project MIMIMED**, Carnot funding (main carrier G. Rival), IMP – France. Pluridisciplinary project involving 7 different laboratories for a 5 years project funding in order to develop a new platform for pre-clinical tests of medical devices in Lyon.
+- **_2022_ - Project MIMIMED**, Carnot funding (main carrier G. Rival). Pluridisciplinary project involving 7 different laboratories for a 5 years project funding in order to develop a new platform for pre-clinical tests of medical devices in Lyon.
 
-- **_2021_ - Project DEVMAN**, BQR (Bonus Qualité Recherche) funding at INSA-Lyon (main carrier N. Blal), IMP – France.
-
-2 years project funding for 4 student internships (co-supervised between IMP and LaMCoS labs) and for purchasing mechanical testing equipment.
+- **_2021_ - Project DEVMAN**, BQR (Bonus Qualité Recherche) funding at INSA-Lyon (main carrier N. Blal). 2 years project funding for 4 student internships (co-supervised between IMP and LaMCoS labs) and for purchasing mechanical testing equipment.
 
 
 ### Awards & Fellowships
