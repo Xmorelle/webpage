@@ -7,7 +7,7 @@ I am a CNRS researcher focusing on the mechanics of soft and hard polymer networ
 
 I have completed a PhD thesis in Materials Science in the group of _Pr. Thomas Pardoen_ at UCLouvain in Belgium. Then, I have pursued a post-doctoral stay in the group of _Pr. Zhigang Suo_ at Harvard University in the field of Soft Active Materials for two years. As a second postdoc, I worked on the mechanics and fracture of multiple-network elastomers and pressure-sensitive adhesives in the Laboratory of Soft Matter Science and Engineering at ESPCI Paris along with _Pr. Costantino Creton_ and _Pr. Matteo Ciccotti_. I have now joined the Polymer Materials Engineering Lab (IMP - UMR5223) at INSA-Lyon where I am now building my own research group.
 
-To learn more details on my background, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_october2022.pdf).
+To learn more details on my background, have a look at my [CV](/DownloadableFiles/CV_XavierMORELLE_february2025.pdf).
 
 ### Recent news
 
