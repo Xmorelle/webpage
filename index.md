@@ -75,15 +75,23 @@ Collaborations on applied research projects with the aeronautical industry (Safr
 Five months stay as a visiting master student, including a two-months research project in the field of nano-composites under the supervision of Pr. L.E. Govaert and Pr. J.G.P. Goosens.
 * * *
 ### Invited talks
+**2024**
+- **Saint-Gobain Research** invited seminar, Aubervilliers - FRA - September 5th : _Advanced characterization and mechanical enhancement of polymer systems : from silicone rubbers to multi-nanolayered films_ 
+- **EMMC19 conference** keynote session, Madrid - ESP - May 29th : _Mechanical response of coextruded multi-nanolayered films of PS/LDPE : How mechanical confinement enables to control PS damage mechanisms_ 
+- **C3M lab**, invited seminar at ICMPE, Thiais - FRA - April 26th : _Modifying deformation micro-mechanisms in an epoxy network by introducing ionic liquid-based nano-heterogeneities_ 
+- **Ateliers LPSE (Lyon Polymer Science & Engineering)** invited talk co-presented with Renaud Rinaldi at Lyon - FRA - February 15th : _Plasticité des polymères amorphes : Phénoménologie de la plasticité et méthodes expérimentales_
+- **Gumference 2024** invited talk at online conference - GER - February 8th : _Study on structure heterogeneity of silicone rubbers by swelling, DMA and NMR analysis_ 
 
 **2023**
-- **PPrime Institute** at ENSMA Poitiers, invited seminar - FRA - January 20th : _Optimizing both Fracture Toughness and High Fatigue Resistance in Multiple Network Elastomer an impossible task? The role and limits of Dissipation by Polymer Chain Scission_
+- **Institute of Mechanics, Materials and Civil engineering** invited seminar at UCLouvain, L.-L.-N. - BEL - October 13th : _Mechanical response of coextruded multi-nanolayered films of PS/LDPE : How mechanical confinement enables
+to control PS damage mechanisms_
+- **PPrime Institute** invited seminar at ENSMA, Poitiers - FRA - January 20th : _Optimizing both Fracture Toughness and High Fatigue Resistance in Multiple Network Elastomer an impossible task? The role and limits of Dissipation by Polymer Chain Scission_
 
 **2022**
 - **2022 Basic Research Challenge (BRC) Program Review Kickoff**, virtual meeting - USA - January 20th : _Mechanisms of cavitation by explosive decompression in hydrogen-exposed elastomers : Insights from 3D in-situ tomography and mechanochemistry_.
 
 **2021**
-- **DEPOS**, co-presented keynote talk with Pr. Sylvie Castagnet - FRA - September 29th : _Mécanismes de cavitation dans des élastomères sous décompression d'hydrogène : apports de la tomographie in-situ et de la mécanochimie_
+- **DEPOS**, co-presented keynote talk with Sylvie Castagnet - FRA - September 29th : _Mécanismes de cavitation dans des élastomères sous décompression d'hydrogène : apports de la tomographie in-situ et de la mécanochimie_
 
 - **EURADH 2021 Virtual meeting**, keynote session - FRA - October 12th : _Role of damage by sacrificial bonds: Intrinsic differences between fatigue and toughness mechanisms in multiple network elastomers_.
 
