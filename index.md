@@ -26,7 +26,7 @@ _soon to be updated..._
 - **06/2022** : Congrats to _Loup Mambré_ who has succesfully secured his funding for a ministry-funded (MESR) PhD after a well-prepared and executed oral defense at the Ecole Doctorale 34 of Lyon! => Enjoy some well-deserved holidays Loup before coming back in the fall to start working on ionic-liquid modified epoxy networks! 
 
 - **05/2022** : Welcome to _Emmanuel Fabing_ who will be performing an internship studying the mechanical response of multi-micro/nanolayers polymer films made by co-extrusion, co-supervised with my colleagues _Pr. Khalid Lamnawar_ and _Pr. Sébastien Pruvost_.
-- 
+
 
 ### Scientific Vision and Projects
 
@@ -37,6 +37,8 @@ A common trait throughout my whole research experience is the strong will of see
 _Projects : in construction..._
 
 * * *
+
+
 
 ### Education & Academic achievements
 
@@ -229,6 +231,10 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 ### Obtained grants
 _under construction_
+
+- **Project DEVMAN**,_2021_, BQR (Bonus Qualité Recherche) funding at INSA-Lyon (main carrier N. Blal), IMP – France.
+
+2 years project funding for 4 student internships (co-supervised between IMP and LaMCoS labs) and for purchasing mechanical testing equipment.
 
 * * *
 
