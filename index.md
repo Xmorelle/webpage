@@ -241,7 +241,7 @@ _Topic_ : Perfect gases, kinetic theory of gases; 1st (closed and open systems) 
 
 - **_2022_ - Project MIMIMED**, Carnot funding (main carrier G. Rival). Pluridisciplinary project involving 7 different laboratories for a 5 years project funding in order to develop a new platform for pre-clinical tests of medical devices in Lyon.
 
-- **_2021_ - Project DEVMAN**, BQR (Bonus Qualité Recherche) funding at INSA-Lyon (main carrier N. Blal). 2 years project funding for 4 student internships (co-supervised between IMP and LaMCoS labs) and for purchasing mechanical testing equipment.
+- **_2021_ - Project DEVMAN**, BQR (Bonus Qualité Recherche) funding at INSA-Lyon (main carrier N. Blal). 2 years project funding for 4 master student internships (co-supervised between IMP and LaMCoS labs) and for purchasing mechanical testing equipment.
 
 
 ### Awards & Fellowships
