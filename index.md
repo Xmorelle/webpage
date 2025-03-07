@@ -80,8 +80,8 @@ Five months stay as a visiting master student, including a two-months research p
 **2024**
 - **Saint-Gobain Research** invited seminar, Aubervilliers - FRA - September 5th : _Advanced characterization and mechanical enhancement of polymer systems : from silicone rubbers to multi-nanolayered films_ 
 - **EMMC19 conference** keynote session, Madrid - ESP - May 29th : _Mechanical response of coextruded multi-nanolayered films of PS/LDPE : How mechanical confinement enables to control PS damage mechanisms_ 
-- **C3M lab**, invited seminar at ICMPE, Thiais - FRA - April 26th : _Modifying deformation micro-mechanisms in an epoxy network by introducing ionic liquid-based nano-heterogeneities_ 
-- **Ateliers LPSE (Lyon Polymer Science & Engineering)** invited talk co-presented with Renaud Rinaldi at Lyon - FRA - February 15th : _Plasticité des polymères amorphes : Phénoménologie de la plasticité et méthodes expérimentales_
+- **C3M lab** invited seminar at ICMPE, Thiais - FRA - April 26th : _Modifying deformation micro-mechanisms in an epoxy network by introducing ionic liquid-based nano-heterogeneities_ 
+- **Ateliers LPSE (Lyon Polymer Science & Engineering)** invited seminar co-presented with Renaud Rinaldi at Lyon - FRA - February 15th : _Plasticité des polymères amorphes : Phénoménologie de la plasticité et méthodes expérimentales_
 - **Gumference 2024** invited talk at online conference - GER - February 8th : _Study on structure heterogeneity of silicone rubbers by swelling, DMA and NMR analysis_ 
 
 **2023**
